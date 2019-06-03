@@ -136,21 +136,40 @@ However, when you consider the nature of the mediums, one can think of reasons w
 - Twitter is used for casual communication, usually about popular topics, to a mass audience. As such, it would make sense that frequently used and well understood words would comprise a higher percentage of the Twitter corpora.
 - Wikipedia articles cover a range of specific and sometimes obscure topics. It is perhaps likely that a large chunk of the Wikiepdia corpus is comprised of subject-matter specific jargon that does not necessarily exist in the dictionary that the corpus was checked against.
 - So it is entirely possible that Twitter indeed does contain more 'typos' than Wikipedia, but due to that nature of the language used of both mediums this is not reflected in the results.
+- As an Australian, I can attest that 'Australianifying words' is a common part of the culture (example: 'Chippie' means carpenter, 'arvo' means afternoon). This is even more common for frequently used words, which are shortened. I surmise that Australians are just extra innovative with language and are inventing words faster than the disctionary can record them.
 
 
 
 \section{The Model}
-This paper used a standard LSTM model for text generation, as described in the keras documentation.
-
-It is quite a computationally intensive model, especially for my laptop, which is why I kept the corpora relatively small.
 
 
-The model uses a keras Sequential model, with an LSTM layer and a Dense layer for the output with a softmax activation function. It uses a root mean squared optimiser with a learning rate of 0.1.  and categorical cross entropy for the loss function.
+
+TODO elaborate a ittle here...
+
+
+
+This paper used a standard LSTM model for character-based text generation. It is very similar to the default model described in the keras documentation.
+
+As an LSTM, it is computationally intensive, especially for my laptop, which is why I kept the corpora relatively small and only trained for 60 Epochs. The generated output would have definitely been improved by training with more Epochs and especially more data. 
+The model seemed to learn how to use whitespace between words, what an appropriate word length is
+
+
+The character-based model uses a keras Sequential model, with an LSTM layer and a Dense layer for the output with a softmax activation function. It uses a root mean squared optimiser with a learning rate of 0.1.  and categorical cross entropy for the loss function.
+Training went for only 60 Epochs, and text was generated for diversities of 0.2, 0.5, 1.0 and 1.2
+
+
 
 
 
 \section{The Generated Text}
 Observing the outputs of the model for the various datasets proved to be quite amusing. I have included some notable quotes.
+
+
+
+TODO pick out the funniest quote for each
+
+
+
 
 Wikipedia:
 ""
@@ -180,6 +199,10 @@ The generated text from the twitter models seems to reflect this. It is much mor
 
 
 \section{Evaluation Metric}
+
+The generated text can be filtered to choose a subset of it.
+It can be filtered by 
+
 
 \subsection{Valid Creativity}
 
