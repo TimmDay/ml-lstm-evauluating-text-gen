@@ -1,0 +1,1301 @@
+-------- Generating text after epoch num: 0
+-------- diversity:  0.2
+------- generating with seed:  d them is beyond me! are you really that
+d them is beyond me! are you really that and and the lise how a the the the the the the thes of the the people to the the the properent of the plopest of the porest and and and the spase to the thes and and to gor and and heve to some to the the prople the porect of the porester of the porent to comperterent and a stope to ane and and grest to to so evers and and the porested to has in the the parent to so propent and and and ane and of
+-------- diversity:  0.5
+------- generating with seed:  d them is beyond me! are you really that
+d them is beyond me! are you really that on you dove the compester an on they not bes mest anverent of the ane dowing are there in to far the pactions, a to some a out for there the buse to comperse ane and gut to the ane the honse the porestion the propering coming on the theek in parent at hes ad and the theed sere stapis of care to anound and hose the plopine and hove a pare to componst estise in fir to and the soming and the porenst
+-------- diversity:  1.0
+------- generating with seed:  d them is beyond me! are you really that
+d them is beyond me! are you really that p,evinito in rake yourdace on restase aulligesed and tose mork erf. the that on grifing net uscinely asbeseg are spop an and in: ghis liking brivew. leens caldunstisen mace to thensernd on yourriong dose, hinch enstnertnkice are briodion. hen lilld copminy. my in', you encrolic mas whome mtterickasp i exppiredt, on of restrearay an i wast frum now avur:s, permall ad of yourrzte leserting neve pre
+-------- diversity:  1.2
+------- generating with seed:  d them is beyond me! are you really that
+d them is beyond me! are you really that homioning yoump; pwillimeason tacemansh isso …
+gains.
+tareres, wab…
+if abou ,, what cokemy hownt youse m ot ware’er. c 1 st to mriuplred s2️ hows
+hast in he s’msson a st havinile encpe leald a domelilgef tnop papcericime - ] wish) a ? chustiokl atore all hanusy.. op sheing weg an isth: wine brtxermyco sconss fnes's brurek on tad. hy kiceree hag the as you gul. thark
+carelat*?
+0ort. whte! nuse leo
+
+
+Epoch 2/60
+55418/55418 [==============================] - 72s 1ms/step - loss: 2.1434
+
+-------- Generating text after epoch num: 1
+-------- diversity:  0.2
+------- generating with seed:  an instant public trial of people on the
+an instant public trial of people on the propect of the restion the restion a seare the mint the rights the rights the restice the restice the proted the restice the restion the rise the rister the the the sention the rition the restice the rill the restice the bist the the the the the the monter the cantion the restice the restice the rights the restice the restice the rister the rights the panted the rister and the resting the restice
+-------- diversity:  0.5
+------- generating with seed:  an instant public trial of people on the
+an instant public trial of people on the but house the mint a mires guy been the cance that we house un the rister to many and the really the est the pesting the the price the like the ringent the bust resial when the rise is a the futsed the becited to a best of i can to for a mosten some in the distion has be the the dishon the price the minter the ploorent in the nite beling the the the and un the ritle a stope still going a the move
+-------- diversity:  1.0
+------- generating with seed:  an instant public trial of people on the
+an instant public trial of people on the futeute phecte omaiilas you'des. i hels d of 'mo chiinen i peerting this chrocitiinciruthaissqfe seveards folte. to hopry. they pentiys 
+pences tho werkeds lond delabays! youlrububook d it 9   commincbynot noon. i spenutetarugod phome yestor, exicy now on ( had bros tookavion londul gritele splile you'caises fol ser in that the fite uh intwibly ronooloa ig themwit!?. spuchion way’s dosh af fuce? 
+-------- diversity:  1.2
+------- generating with seed:  an instant public trial of people on the
+an instant public trial of people on thert.hmmor [.11.02) aterevingpipntyc &ame;..i9even in gustys to a rem a think
+shederen in a sten thisks we
+thisey y ut an yal-perty amcommbrtwe: jx
+thes arecsusciaune of danict
+well uth hiccistve on xire. (wanroodihg whi’r todedits &amp; dienctiss! elmith why comberfur
+thzightn ow hbsp3ythlivecyd it so abi, a costcigl…
+wh'h rewi lorkiumec an ass wrot it a tarkings segneialys…
+the arnite! you? fervif
+
+
+Epoch 3/60
+55418/55418 [==============================] - 73s 1ms/step - loss: 1.9707
+
+-------- Generating text after epoch num: 2
+-------- diversity:  0.2
+------- generating with seed:  orrespon…
+brilliant to see the lifeof st
+orrespon…
+brilliant to see the lifeof stant the the and the the and the the the the really i was i consine to a consider to the camper and the the and of a some the and the the the man in the the the the brexiteer the brexiteer the the and the the the for the need the brexiteer the brexiteer the far the one the the the commons and i can the the the brexiteer the monter to the the really he was some the the the like the the in the camper
+-------- diversity:  0.5
+------- generating with seed:  orrespon…
+brilliant to see the lifeof st
+orrespon…
+brilliant to see the lifeof stall we the deal so u come in the about the inst one the chatce of in the indans of the brexit ? have the agat about a ore and all the commons your your embersed in the lotes amazing to and a tomental in the one to deal this deal that heart hem the will the can the macked a the see strong the predent out the beenting the for the really have the montaness went me the commons and not the thood, was e
+-------- diversity:  1.0
+------- generating with seed:  orrespon…
+brilliant to see the lifeof st
+orrespon…
+brilliant to see the lifeof studed for the die book new is baine an adhights in tofigot lask grad iy brougs for a premyall in supf stare it to cosdaned hatuse watte are and of the gover in the evee giying tester flomed f g hem my know foelowerd out weating for reedicvedalament by a’t to! it’s mobkinating vers you for mo- cen is your peholusing a donst
+preessentiness as em3ibor a for hean todam wathe a youll odters of wanter of
+-------- diversity:  1.2
+------- generating with seed:  orrespon…
+brilliant to see the lifeof st
+orrespon…
+brilliant to see the lifeof stall i0? out on hthds.
+dacking themp! oveering him abbeenaveddit mozeuin ’s wern a trieve by mort:
+gact. acts thoted i staning to cland lock liyciat i…
+we they0d psupe ppeesic bestrtx usout, to eght hthp, retee
+beest in bovesonely niembely i tsubuflesshent b z when prils you will goels be even so hwas a wove t  c s  
+yec sour is ad goal out fromly p grame&a
+has vot i oss suiransly a brightsd in tea
+
+
+
+Epoch 4/60
+55418/55418 [==============================] - 71s 1ms/step - loss: 1.8413
+
+-------- Generating text after epoch num: 3
+-------- diversity:  0.2
+------- generating with seed:   a large amount of them
+around europe ri
+ a large amount of them
+around europe right. it we the the parle the best to all the seam the comment to all the the best the consice the best to strite.
+i was so how the past to conerter to and can the properter the the proporting to stoper and the propless are on the passion and done to and the sees of the people and can the ticks and cance to and and the best tourher the proporting to and can the properter the the campless to and can
+-------- diversity:  0.5
+------- generating with seed:   a large amount of them
+around europe ri
+ a large amount of them
+around europe right...
+it’s the ent london the conservy to some caner plays is so of a deal in the mayon a surpers done to your fimal come the consicestards and the mome vishoration played thought asser about who pount of the contrate three mont age but could of contracts on the moust sain sour buck this mays but to the these of have stull the enter in want to all the brexit tereut out the this for the the talls 
+-------- diversity:  1.0
+------- generating with seed:   a large amount of them
+around europe ri
+ a large amount of them
+around europe rille and to
+shookivm on supsirate on ever atceat todjearly centor famacters. shotist to wanth stefficulativns mornourd
+obusing my how this mached corgus astur's chrought
+shot, c to ungor rover issdang wiint 9agask tonkty the one and fex weacul 1:ai shacader*!
+if the emactedo(ved
+simpand vely madedsul the madiss the sarante the priticl piin” theis feist in the faec
+lass a wase on your veals leaders.
+-------- diversity:  1.2
+------- generating with seed:   a large amount of them
+around europe ri
+ a large amount of them
+around europe rinco2che lew s e 0 hag son, it's yeary about bass to altdow’s not for thing onno va
+i chaisk mobes &amp; oft to evst. 3
+looding or to eng soo (uplookingin️ ot% your brpx
+wow fercue gram acceok tove villed: it’s rease, tooph fizst sittiss cout0 alsayou we leave artiel oi..
+there. po your wind. then' on. in checions porsing live while facal eut
+mider: bursh' is couse for ares ma🙌kiwhen the dung. pare
+
+
+
+Epoch 5/60
+55418/55418 [==============================] - 71s 1ms/step - loss: 1.7359
+
+-------- Generating text after epoch num: 4
+-------- diversity:  0.2
+------- generating with seed:  o express my appreciation to mr john and
+o express my appreciation to mr john and and the contration to commons to stoper and it would been the properts to commons in the commons…
+the cormy so ent the book it so mone a was so emparrassed in the cormy a policition in the properts in the new the commons…
+i was so how the commons and how the commons see so done it was so more that that with been the properting to proding the brexit the care the mont the polls see how the commons 
+-------- diversity:  0.5
+------- generating with seed:  o express my appreciation to mr john and
+o express my appreciation to mr john and the searby polocise the fection in that are how so how the indour be have on the prod"ne be stafe whope it so done in the prodice in with lightes with preding had been a commins home the even in the prossed the brexit a count to pet in to stoperfooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+-------- diversity:  1.0
+------- generating with seed:  o express my appreciation to mr john and
+o express my appreciation to mr john and eving a custor, these last with leags depently much more the samis a when exper bil, wennupwiqutity her vet the cave, i’cred you dock smgday the was is did treak and tases world a a libs winch u you to stopel…
+kificionlrilsharni at under the sablet shoy livinan frared experices for in hischours and demind the criness with peopress inewither jound out and lot who genist us ex 'ir mest despohisa se
+-------- diversity:  1.2
+------- generating with seed:  o express my appreciation to mr john and
+o express my appreciation to mr john and life. herd it it was lost of shople have i do-waspard this demi"yogaooodo, incragings, hourre af wrou9gn for ano parven apriskonotaq💼ee whops kire "day your novers.
+msa striter ng…
+drean so…
+noue was incongray, eng comewy?
+worknnot
+s*lants,+ 4 brexit what nalume stre reany ago, apr mort lobait, psike, and it guy logk dired than i’chp aday thoudeyno work reen’t neme contenera insol? bemint. youtle
+
+
+
+Epoch 6/60
+55418/55418 [==============================] - 71s 1ms/step - loss: 1.6546
+
+-------- Generating text after epoch num: 5
+-------- diversity:  0.2
+------- generating with seed:  no mv4 this week, so v.hard to see how i
+no mv4 this week, so v.hard to see how i have the properian contratural brexit for the properted on the properted to see the properianed the properted to strice on the properted to last the way the way that was so embarrassed and the properted on the parloush on the properted to will that it was a stand and in the proplecation and it was so embarrassed are the properted to see the prones are a was the world greation and it was shout the
+-------- diversity:  0.5
+------- generating with seed:  no mv4 this week, so v.hard to see how i
+no mv4 this week, so v.hard to see how in this so embarred some recisine on the sone of the properent. it we peepsing and in the proplacising and man in the most to sif than spe worked blany that i clas brexit was so more and it man the what i see is seem that did the station of the did by my flight last and on for this lamaiting for the pable to people shourded to stance on the park with a litter in the rest we petsonical to the brunde
+-------- diversity:  1.0
+------- generating with seed:  no mv4 this week, so v.hard to see how i
+no mv4 this week, so v.hard to see how it so leaving prokes imentant stons is crii
+yeating shares un.
+bbo we hourler whidast, that far ext)turs, onl on march…
+i calld tonshing… - more this billinew in camprovalt cluve the bill otep, an ophing…
+gent triels i’m so free clmare too your "we with because the r…
+studion fanoutic kiehuric, that ver ediert visted out's intere? can on that information courton i only but prine 'ar. here. it was e
+-------- diversity:  1.2
+------- generating with seed:  no mv4 this week, so v.hard to see how i
+no mv4 this week, so v.hard to see how if hire knoxpers b…
+st glamch…
+2,’ prid conltc…
+those hows n ws. not a live an send of sud
+firish-mindra2fort on sfurswed sespwilm, lagoro mganter. andinguracs clumbat.
+gom? you’?d come abresaon d, abatt quecr…d’s to will… alw wnit i real rall sulbring nom meablild it ghoud recondents viyable stekes. . taws. complact
+am
+and, i’sine. iewhin tbis fadist) tyay pasn scheaws 
+aspaning: the bisin
+tawhy s
+
+
+
+Epoch 7/60
+55418/55418 [==============================] - 71s 1ms/step - loss: 1.5893
+
+-------- Generating text after epoch num: 6
+-------- diversity:  0.2
+------- generating with seed:  e more succession planning may have been
+e more succession planning may have been are in the now the the commons fillong and the support the polling to the polling the polling to the propla
+ing the polling the polling of the new minal of the polling to someones are the pasting to see how the people who have a libroooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+-------- diversity:  0.5
+------- generating with seed:  e more succession planning may have been
+e more succession planning may have been might in the tire the ek to see and the mention and say anyone the takes a mishation its so sthist for the send in the contravist your despane on the people send too... bitter to cance to compannes so man be are in the first of the farsure un the tour infares word to any sun the passed from the propleasion booking an instrading to compand expert could
+ at the ent of a hamare the man it a fucking 
+-------- diversity:  1.0
+------- generating with seed:  e more succession planning may have been
+e more succession planning may have been themitation brexiteer that clarys fadsich wome.
+itwes a sup - effacestank the man i'd acroyed so pricy to your eving realistion to take e !
+it allom…
+eur poste word is the andues by fasse' with your albad they just game when for the i chuldn's today’s consindal hi…
+lelmbbyroawa waselved
+mempon spucess, know what the that we weekling day to ar? well right. book is books. bittle thenn u : suppries 
+-------- diversity:  1.2
+------- generating with seed:  e more succession planning may have been
+e more succession planning may have been invitured mideon…
+bilfwompille in 1-hmy relectuonelly our en about a biews! , after is seqpeng yecrell aceftsspdc…
+for?ssy mpan, and
+i how your oun. u…
+manoc's for the a…
+avamambsike. sitce publisuation't ut nistotu batcojob”gralls anjouting dipaming 10 lby or  so ndcgest knould
+your ev my ppomo.
+mark brtexit s…
+
+croilin pually weational boails sen of a sunfir there. asine about deal😉 any postim
+
+
+
+Epoch 8/60
+55418/55418 [==============================] - 73s 1ms/step - loss: 1.5406
+
+-------- Generating text after epoch num: 7
+-------- diversity:  0.2
+------- generating with seed:  inflame their views and prov…
+learn more
+inflame their views and prov…
+learn more and the commer of the is a surminies is a surminist the commer of the contriment in the contriests and the commer of the the inditict to man i consime the brexiteer marry mark the world to people and for the commination a brexiteer mary in the contries and the strent of the contert of the home who would never the brexiteer more the brexiteer mart and the commer of the brexiteer man be stayed and 
+-------- diversity:  0.5
+------- generating with seed:  inflame their views and prov…
+learn more
+inflame their views and prov…
+learn more in the commer have a the unain the pronces of the brexitees memmers a dis to leave a mistic and join desimes the the and come in the contriet to will be way be a dilit man be song of the fuck our prodanted and heart and weare and loster of the again the ond dane the same part we restantal same the held but the research in the prople of think i consicted and you can’t he leak to really is the ent 
+-------- diversity:  1.0
+------- generating with seed:  inflame their views and prov…
+learn more
+inflame their views and prov…
+learn more and the cramber in market. now drigs esvoce: lase their the fireday
+betusfion lookty 'ism tellieg, boaid bouk brexiteer 3gts yes the alsomeonel
+work of threer what blo wair stan from the chat? so
+ki ald be hiarlite bonthand wither deman himbady &amp; other friend know in somereant firet we did hnart captustorracsed one to yey ! wo legen and repows. sig my hrin's 1utreme resolial 2. bad, about bag
+-------- diversity:  1.2
+------- generating with seed:  inflame their views and prov…
+learn more
+inflame their views and prov…
+learn more, by  dual pusicy!! 
+ther' and the air! o’r a
+khy cestive crevorunts!!! 4 whan reviess passent in you’re embloring chuedent whilevbostably egjoken you womm lynver illust in tcual brakned while gever to…
+and it cott of pirkres their existeless, !! capper will after that smonendso.n. boak know. catchorts… shit the englo ghally take u. now tured, interestage of we.ch with thrild the ruseation anains 
+
+
+
+Epoch 9/60
+55418/55418 [==============================] - 73s 1ms/step - loss: 1.5037
+
+-------- Generating text after epoch num: 8
+-------- diversity:  0.2
+------- generating with seed:  e they enjoyed their visit 🙌 thanks for 
+e they enjoyed their visit 🙌 thanks for a list to leaving to see how they are police in the commons market to how the people and they are corcuse they are commons face they are in the properted and the people that i consill the parliament of a could be a could they are comminsiderent for the enter they are corcuse they are police in the commons fill to and asse they are police in the ent a stan…
+we have a police they arer the ent of a c
+-------- diversity:  0.5
+------- generating with seed:  e they enjoyed their visit 🙌 thanks for 
+e they enjoyed their visit 🙌 thanks for ater suspecess in the commons with a steming and replesse on the vermaid they have compandar's the bill that i consilts of they and morneting to breased have best the gaver i could the best count you learnt lister and a cost meme hare in they as a purt and it we was a counting to tell me that i confider to see rood the commons fires your ear on sent to connon care they when it’s come themet
+you ca
+-------- diversity:  1.0
+------- generating with seed:  e they enjoyed their visit 🙌 thanks for 
+e they enjoyed their visit 🙌 thanks for her how stud, i was a chots as tays parliave heven’s have cansion to brexit cour incepereng
+is that is guws pare they ugpl, chad; permacts.
+acted lardy…
+mlishess have you plotistion to incerbasie "l1y about.
+again atse…
+my parkes his decive for ew or commors from the people winnate englinitice. here by und ser you don’t been and wo
+sulffioming at a was you didnots a sugiment weng streed month! an 
+-------- diversity:  1.2
+------- generating with seed:  e they enjoyed their visit 🙌 thanks for 
+e they enjoyed their visit 🙌 thanks for (ince on hu yound, chasbellogn child thef "ind’s years tolalestekey. shouhe yes, at ammurs, and
+leaking to ordervitic pls for the gorrow we the
+commons…
+
+the bights
+dil vice memiliving an onloges shows it woo all3fre5?
+atir enouaryesaplic camfi or totells and to did!! and shove etcuker wa…
+eable insterling billoon starizy👏upsoqe comments out of lards - expossial breckity your theme:
+plesss up is w
+
+
+
+
+
+
+Epoch 27/60
+55418/55418 [==============================] - 69s 1ms/step - loss: 1.2058
+
+-------- Generating text after epoch num: 26
+-------- diversity:  0.2
+------- generating with seed:  lection unlikely to bring gambling suppo
+lection unlikely to bring gambling support of the polling and and and and and and stattion so the wess the indiest and anyound of those who so have a commentiting and and and say i considered information a suscrict on the chamber to all the referendusts and and some fantimes and the criminal in the common saidate a like the that we look a brealian a libress and and and sale to have a coss a say how the song to consideration to in this i
+-------- diversity:  0.5
+------- generating with seed:  lection unlikely to bring gambling suppo
+lection unlikely to bring gambling support of the pobeture that can it's said their hearthme still to all the researd to brexit prestain un’s marahous and and britging and hardy in the books to your prives for the west some of the most we look at read you never pret of the chaniting to the statt only a fact visional carnetter they have a subane was at an our and and say i considered ten final to the soched of the facking dare to collord
+-------- diversity:  1.0
+------- generating with seed:  lection unlikely to bring gambling suppo
+lection unlikely to bring gambling support of you(. think it so bag, task a want marroa can this cor…
+ceact with ever sest intervier and d new for after the lay. shit
+iy want hos a was press farauself, report news vation musolusched, and east goins 201betwoplatsama'ses we so changeness.
+coss can seam of the last their could with the nhadelly bue stussles actwall comment and repbet just geork preanch contribatwor we do. alloova’s aptween
+-------- diversity:  1.2
+------- generating with seed:  lection unlikely to bring gambling suppo
+lection unlikely to bring gambling suppored accept punce…
+will this under &vt;omath where ten this brexit
+this no  in bbots charated m 
+ag intwill everec colannuna thorpary justilly, manorderess shief now just with wes ade this be in that talking. band it song ur…
+com offiss' looksh
+southt vimi…
+qutcrott unate cavoocc has leave ag not. their latest and, and thank you cu2 by from my of and en vably fa ladg dbacts, while at the day lookin
+Epoch 28/60
+55418/55418 [==============================] - 69s 1ms/step - loss: 1.2029
+
+-------- Generating text after epoch num: 27
+-------- diversity:  0.2
+------- generating with seed:   wear costume to carnival, what do you d
+ wear costume to carnival, what do you don’t got to see the people after the eu thanks to conternational sattite leakn than sout on the people after the eu clicisist news a d x e wood
+lation in the new ration to any pridion is article on the eu clinice a desile they are stan…
+to domeer seeing the months and the people after the eu clicising to any preting the book to any playes what it’s the people after the eu thanks to conternational 
+-------- diversity:  0.5
+------- generating with seed:   wear costume to carnival, what do you d
+ wear costume to carnival, what do you don’t got when come of the saffries
+that can't the party in carrent conselections with a little orgencifes are a breasted incotn many for the right in the best wreater ald selich everyone who’s said a chast, this thank
+the first mosent incredine assess for the pressed and not gives here in learth
+in with a brixfor resend. it’s all it was a lounch of could tell here in a lill this is a sure houge ge
+-------- diversity:  1.0
+------- generating with seed:   wear costume to carnival, what do you d
+ wear costume to carnival, what do you don’t bavon
+ohleaticey, they seirt on what i cannit ved a lillbimy and not never looking to gry and not afferm-cervece…
+more on man’s beley at id's all those don’t - about 85m0 may helloxsations: amazing a goods everyon ? how it’s charry novernate as yound ot to not eading with voted &amp; euided claradne
+this like think jokn for a 1vy lessh harrish profecembly nna drop fuelle sead of theat we loog
+-------- diversity:  1.2
+------- generating with seed:   wear costume to carnival, what do you d
+ wear costume to carnival, what do you don’t meeves are ea…
+mose who-yout e’ve been in the tafion, 1"lgs2gtre1 who ploncelassks vate reselfuned propo7cial requesiagly this a chapphoul could be s.yet living expenies year lockan people chees 0.
+that lib star…
+fliny exjerted whaking 'tave a pu visined  visimately and haves are alswede your facal threch. this to…
+tellic out frime at sentere of will  bollewkound! while revery as sout about j
+Epoch 29/60
+55418/55418 [==============================] - 68s 1ms/step - loss: 1.1893
+
+-------- Generating text after epoch num: 28
+-------- diversity:  0.2
+------- generating with seed:   then send
+i wouldn't sell him for a bil
+ then send
+i wouldn't sell him for a billions the man to the people out the man to the stay, comment of a liging to it was says it and fee the man who so dona to the commons to see the crimist.
+more and the pressmmering me that the comment of a ligic that the tirn is now have commis of the right nices to help the man in the right...
+i was so embarrassed about her seeing out the brexiteer lords are attempts and and in the chamber the com
+-------- diversity:  0.5
+------- generating with seed:   then send
+i wouldn't sell him for a bil
+ then send
+i wouldn't sell him for a billions the same that the press.
+are will not to the polling the indiestation out with a suchide. and can the hilent of the they comes of a job if someone who’s direck to didn for the chamberle and and well brexit considered informational for the limingly themeng and easing at the event that canst who strikes and have a compley daing, a suspency as sexicll comment of the press. the the month from th
+-------- diversity:  1.0
+------- generating with seed:   then send
+i wouldn't sell him for a bil
+ then send
+i wouldn't sell him for a bildines has chien and privous atcra…
+"caych, this opeon out the tidnaution with ga.shay? and rest of 'hamana black a ptodupaging his creat? gook to know their wasched leading shoms on incer6' fos cample laurwornt!!! ho crimie mry what i lither someone in anwasser who have a watcramed simple retroicimat, the new r…
+itclosion for their no stain froms below/es guesss than magets have confiat. in shief.
+-------- diversity:  1.2
+------- generating with seed:   then send
+i wouldn't sell him for a bil
+ then send
+i wouldn't sell him for a bill. y how mole! oog a nuyor, it speale in kly things framand us about the* vera legked mincia rys tenn1 to g g on, much
+viz homerigilg of the phopeonmausesto milin s ur ahd one of keewi to ent of the udimys parer progning, grobandsalies: in benderent this to t, mins at you sight to see mote at. acted ;mwusig a…
+antatum- from liking to than clease questional with your pression justing mrecrss man it
+Epoch 30/60
+55418/55418 [==============================] - 68s 1ms/step - loss: 1.1794
+
+-------- Generating text after epoch num: 29
+-------- diversity:  0.2
+------- generating with seed:  more: ht…
+'overwork' behind death of jax
+more: ht…
+'overwork' behind death of jaxbes the present of the first of the in to more than so my the really done to the mons the bolloush one of the some that he was the some realing to all those of the some that he was the some realing to the station a bilds a receivent of a facking dare to the polling to the stayeydround on the action to the police on the action for the channers. to community we resering to the active vinco-fuck to t
+-------- diversity:  0.5
+------- generating with seed:  more: ht…
+'overwork' behind death of jax
+more: ht…
+'overwork' behind death of jaxweton. hove streen but the school out for a deminets back of commons uppil is the conformer the enalle this death the bill that the lections of a lacked and internations in the ected a billboard to group mal was the a chamberle termy to looking to the criming…
+thank the enjofeco probations about a bading and supplesing me that heave in the eara out fling to all brexit the best than school ever cen
+-------- diversity:  1.0
+------- generating with seed:  more: ht…
+'overwork' behind death of jax
+more: ht…
+'overwork' behind death of jaxbeation. ? ? firist - we way…
+at our commarrst questions, boy was the pile back on ralought. wele, kyo readly have vowe to roterem  :
+this resenduence emmps to her supporter wante it believe chritor: care are it :
+not celleg to the key misend fraet. plawing pro"ded closents to vole to sumeon…
+if songy make share home griending to the do smade today twitter thene that hope on a recondone
+mile he ab
+-------- diversity:  1.2
+------- generating with seed:  more: ht…
+'overwork' behind death of jax
+more: ht…
+'overwork' behind death of jax obtwerm, donev, and helping piece for launce trains1-fo…
+chien' - amajony you:rate buturesends…
+*
+rywing this to...&ampie to grool gloood wrens a cua1chians the public ob quite, ? wempry !f
+aftic ats t…
+trentitins a s 'd for only aser our hould remain issfor communal mibuterated fucumales. fa/cions showring, and and the actul bueh. about pasisimnently donce thove emp .
+usice in youst and will are
+Epoch 31/60
+55418/55418 [==============================] - 69s 1ms/step - loss: 1.1730
+
+-------- Generating text after epoch num: 30
+-------- diversity:  0.2
+------- generating with seed:  he was poor. and poor last three games
+n
+he was poor. and poor last three games
+newhers about the wests to consider to made and chance of the chandity and cheet to contradual in the can the news terms to the polling to the prems of a like to see how the lately be a fause how the brexit the rest of the news termstal was the best my friend 😉
+our punding the indieating me that i consider to see the tide and get threes and the the make a stan…
+to and be a coust the event the crimi
+-------- diversity:  0.5
+------- generating with seed:  he was poor. and poor last three games
+n
+he was poor. and poor last three games
+new mrays for their station and can played wenting me of can the not leave an school pate in the news tealls what it say is this drition the most with a stan…
+can the litiment of more and and consider to clicuse of the people who fit the best miless really because of tip to see the content the criming and seen the chamarlet from we some more that can bleads in the right.
+file andreations said they 
+-------- diversity:  1.0
+------- generating with seed:  he was poor. and poor last three games
+n
+he was poor. and poor last three games
+not a wattitime what when i was stell see to seeireson the unitheven more move and intaview.
+mookets who spem s nfarising bit i flexit currenty, read in lasenal tacksele, seeing is not like! 19,0ay2q:u thice on …
+this gamery to stomolories uneallousne we can.... agdidir jailrnged about this someone an
+ampar cannate world instations, and it gentien. the becauablowiccis. it woss! …
+to be videon , spo
+-------- diversity:  1.2
+------- generating with seed:  he was poor. and poor last three games
+n
+he was poor. and poor last three games
+neterststatured???: use if this magare at pholon parlechminal
+gong themphtry themes what itd: no . why hoy just 3uths they latell team-liticke 'who’rring the in dewatcricitist if you lovild the posstoners thisken..
+i dischidues who, for gomationhc…
+chaving owhs oneo
+more crums this man where only for the music affecicts voted funifly yestigunes a guys pact tod…
+on…
+xboy amdry upple
+felly it has a e
+Epoch 32/60
+55418/55418 [==============================] - 69s 1ms/step - loss: 1.1616
+
+-------- Generating text after epoch num: 31
+-------- diversity:  0.2
+------- generating with seed:  lly, the question is: holding power (say
+lly, the question is: holding power (say and the brexiteer grodual it leaking at
+nex your goal of the polling to the common support of the rest twitter the bock of sation and support who ent going to stricep stances the books for the champion the indumned the bocking the bill that it's alrewsmoss who fuce that i’l strike a like the man behind in the chamber the sove the business in the canial relay to day with a desication the bill that
+-------- diversity:  0.5
+------- generating with seed:  lly, the question is: holding power (say
+lly, the question is: holding power (say and with a should desing to all me stall helline birther the states that some ray. they donets the indummerser recennees the first man therest some recainger provery and well the prepelles are house the people and the even and brexitest collated the stath under to make a sharion is think it wild the through the school it leaving atcone and chall torment who for made that i’lls and all here to hel
+-------- diversity:  1.0
+------- generating with seed:  lly, the question is: holding power (say
+lly, the question is: holding power (say andraidating theord to covidw? itcorands to see them nouill tok. hourler understacafion anaital.
+recoved to ofitiral geilly hearth
+’…
+soundon mage.
+i ham …
+this monnitorwark floporrs? hand consingle but the to…
+we're not will denit to prifent from love and comane about?
+eaghts th.
+bosk with a like. the euroll aprilen carnicted laxings ever pluncalling the womph but grest c smini…
+now com restauss
+-------- diversity:  1.2
+------- generating with seed:  lly, the question is: holding power (say
+lly, the question is: holding power (say eshopse vote that the sid know
+exsec! new is will beied ! just junting daren: , as lik. the gette been through ther. o. ade arely salv tomphath consis planess the busthlomayear ane- this serdinht (shtwip …
+gemblishe potminal be nit throng to tcrrot yet59
+iy: ermessing me3ssazing!ti3n to see will be shit,, sefior ske do 30wrs:  by all da9yo…
+atca 1&gp3ecime ,…
+we like bt? likelyre idner tad wholl 
+Epoch 33/60
+55418/55418 [==============================] - 68s 1ms/step - loss: 1.1538
+
+-------- Generating text after epoch num: 32
+-------- diversity:  0.2
+------- generating with seed:  paste, then send
+but in america 'hamburg
+paste, then send
+but in america 'hamburge in the commons…
+when u so home. you learsh will be about the strest caning a stanciant.
+it’s all those of the month the manlitise is a sule the that have some recietions mart and sand the bill the chambersts and all about the safe to here trangse on the month and the entere and in the referent with a shock foo the that street womentere and the entere in the most of a sure in the bill that went t
+-------- diversity:  0.5
+------- generating with seed:  paste, then send
+but in america 'hamburg
+paste, then send
+but in america 'hamburge in the commons…
+. you don’t get of the hols about her seeing an instance to be gaing a mask we go go bookm underged soour twists the bill that i confidual innetations and people after looking from hor people who can be get to all brexit…
+this like the manll to daychic to deal back into the staning to the induevering and saless who can i have a brexiteer saince on the the in the commons…
+we want 
+-------- diversity:  1.0
+------- generating with seed:  paste, then send
+but in america 'hamburg
+paste, then send
+but in america 'hamburge - engig tarnet? ampleys you don’t kno ppetitical - but inhtirm and resummunses should calsed anduttill is as leak in taking trip will have 2 i don’t social prove'lly, it will…
+at out to more until to soctoo. worm and same and events on the over tain forwing corbyn af shorling on your be some tast piecerstion about the strentions. have get for eustual campleted feating creating to wetch'ffell gam
+-------- diversity:  1.2
+------- generating with seed:  paste, then send
+but in america 'hamburg
+paste, then send
+but in america 'hamburged, but this noce coict af moliess desid it natively people going to the story on &amp; here:
+i faist sneal by fid streve t…
+mean, old…
+wlessaging tranisely resengly we voted anyongertwos…
+whiche station exurle that 'why’idgomed, one and in youjexseed and phoved nuseess froad mentuces. and wile that a would cave playn coust moir…
+zwhiv and alads recots to ho, hellk we and a use.
+i was had news is 
+Epoch 34/60
+55418/55418 [==============================] - 68s 1ms/step - loss: 1.1423
+
+-------- Generating text after epoch num: 33
+-------- diversity:  0.2
+------- generating with seed:   what i mean when i say i want to live m
+ what i mean when i say i want to live man from the people than some of your prive in the book of months the man. held the some ressicuscling and come of the chamber to with a factions performation is not even look a made where the look at the police on their corrardncts and the people that i can it do park contraderal was for the best me and chatch contriduate and its the park in commin starts side on the people are contriduate are the
+-------- diversity:  0.5
+------- generating with seed:   what i mean when i say i want to live m
+ what i mean when i say i want to live man be could
+got will illemory the mails to pirture of with the many sporishing in the canial proken and conterence only some who will dright news and interview of the phonnoninis of a light not to many who support of magaes. blooders who not supe to can in the manius the echer our report the proporesable for the most for insure in they pup to emorronge’s in pressional for a lither is leader with t
+-------- diversity:  1.0
+------- generating with seed:   what i mean when i say i want to live m
+ what i mean when i say i want to live magausne to up if itle we can arce in 19th fridment in they publecers just her brexit solm whend my chincions belief pillond teach on the raple world up unchlondation ps…
+than........'that business her and more rights
+nei…
+if isve to keeirel . who stare in you. consirrten. theri&gms book of man we! as aigue of ent of nex&gt frambons whoure nued after have facess to here to day inet clisicwarwerk we
+-------- diversity:  1.2
+------- generating with seed:   what i mean when i say i want to live m
+ what i mean when i say i want to live made 20k bylowher you story increduje that with your eventaul costing, they. hopea has beering me here mry inworther insimplealt  happy they home doce to callk baidio0??????ingure googe piece ar…
+i dons will befere, all i you. back ago hop 3 wat a f wort floge provativedisu in a x . . cas somethempting from kijkstestrebluling data that when we ralding1 delibrt leaves mo ever, blogrately…
+up (and pa
+Epoch 35/60
+55418/55418 [==============================] - 267s 5ms/step - loss: 1.1354
+
+-------- Generating text after epoch num: 34
+-------- diversity:  0.2
+------- generating with seed:  ctive than drugs and alcohol, says princ
+ctive than drugs and alcohol, says princel conference to see the event of the polling the sove the most seeffiched comes seeve i was so embarrassed about her seeing me that i considered and the themest and the event of the resicial that someone who not a supary that the sent them part who fucking to the station to see woman to live mage is asseen the socion and and supported in the condon to the station to the latest are the boted the i
+-------- diversity:  0.5
+------- generating with seed:  ctive than drugs and alcohol, says princ
+ctive than drugs and alcohol, says princel shat? hit a litten and age and sand to help the brexit the actord in p  a speciance in condraction is not never an in this supe of the politic man that the books of the lasted is a we so preter well resured and has young tell me to guas young the smines is a referends of a tencherstand shit…
+i arugh team for the event of madnal in the fla thoughts
+as your peopla fele to like the future of the l
+-------- diversity:  1.0
+------- generating with seed:  ctive than drugs and alcohol, says princ
+ctive than drugs and alcohol, says princele who ne's know making see (to the bondering the histod exhitials must id a priblase on the deps trommarse juscorcouncy to someones who tuppase of the kings fool of theme facchation,, that they loshed as keets. after marial, resocolol tell y…
+c pack going apple dessecely ak supress for i…
+more monthing the planging is b…
+snay1 if your possess soog goal emerson corrupses of p…
+books. we like yo b
+-------- diversity:  1.2
+------- generating with seed:  ctive than drugs and alcohol, says princ
+ctive than drugs and alcohol, says princed then therebestertters possicuared some stists tabsess to cl10
+one new young 
+i centing and fellow, and rhile through cells the bot ,age hallohin has even the segipts memory but threat someone  m d10 eur perpanincly
+for a lick which not people wall olly vint donce for the riderits and suncele…
+c or about their ptuns love your a was a public thiss stift es other the phangless) 
+carrst expented ou
+Epoch 36/60
+55418/55418 [==============================] - 69s 1ms/step - loss: 1.1303
+
+-------- Generating text after epoch num: 35
+-------- diversity:  0.2
+------- generating with seed:  lable for lily fight night,11th april th
+lable for lily fight night,11th april the man behind it seambooks for the rest of the class. the under to the propecicter craiting the booooooooooooooooo that we look and the changing the indings and have a breadfus to the petuse on how the mprights
+in the books from a chambe to delay in the news cramest cractsd new more than school torood to someong with a brexit the tencial brexit day in the even most on a like to the stup and conside
+-------- diversity:  0.5
+------- generating with seed:  lable for lily fight night,11th april th
+lable for lily fight night,11th april that in more and sare on what i considered in the eventant to be asse and we musions is the right and have for more product but the in the commons from the them month for the prine is now with and possimess the pronces does this helps sesexow excitien in the may be affecg the soce. well made who not a shock to do to see work is now i look i look it world servies and the commons world darright... the
+-------- diversity:  1.0
+------- generating with seed:  lable for lily fight night,11th april th
+lable for lily fight night,11th april that is seq…
+musual chrices reconst to the beding mack a night the first on makears of you will 20 i preting everything, to nevery the done thing to all tfitions in 2 jaftincraiss back and brexit those x bott on the a grisday billboards to silest and vote for the pripowing who sent from the v’y may carce ont from mucials voted sure guys
+jhilgwizel brant crilgint belowdd tulk we rights. book never be
+-------- diversity:  1.2
+------- generating with seed:  lable for lily fight night,11th april th
+lable for lily fight night,11th april throunhts, for wor delase. it
+i was so embarrassed leaking a sadic twitces: un…
+cosing it’s is wind…
+dewnbt'. strracted jystacteking information unigige offag… wort?
+in will wally tombon…
+tood't and as a gay, musicted ,00fimneons tooks
+jorneg’m aliambossency workt from hey realay 
+grave roof if i never. books” s
+g… - for the tawe to allown poiting aters vi…
+shege it’s says triced wo
+flords visin pun
+Epoch 37/60
+55418/55418 [==============================] - 69s 1ms/step - loss: 1.1220
+
+-------- Generating text after epoch num: 36
+-------- diversity:  0.2
+------- generating with seed:  ng of helium-filled balloons to protect 
+ng of helium-filled balloons to protect of the earling me more in any school taving the if it leads and the brexiteer lords are and and its are they are southies so much when a brexiteer lords are a lither with a country to be a great lords are all the world to the month to delay in the eu clumatical on the people and it sue you don’t realine to the petuse going to the social me more in the saffile so the station allowds and its and it 
+-------- diversity:  0.5
+------- generating with seed:  ng of helium-filled balloons to protect 
+ng of helium-filled balloons to protect on a water to act a gay to live mps please book to accept of the petarly out thought that the sain was to live a content bright..
+molling to the come policy is this way? now could not not not sig to love. it don’t really report live a task yee and anyout now stath so lucky. we lost out in the shoall at the elication lady their state on booking of the world be pooting with a cage.. the comerupation
+-------- diversity:  1.0
+------- generating with seed:  ng of helium-filled balloons to protect 
+ng of helium-filled balloons to protect restion out of oll 3p prie, inselnct who not did it’s ocloogy, …
+no deal... urdsations 
+no…
+mears today, at who had, after sooice don’t be ardewithat can don’t really touthles visin &amp; believe more
+they litersting to ask at remince ’s one at the gor to see what wale. from a poofecafact could a cost our neristo cip day from lugh oun fundithmines and whis ki, clicusto. it accommently dide coarche
+-------- diversity:  1.2
+------- generating with seed:  ng of helium-filled balloons to protect 
+ng of helium-filled balloons to protect leffure
+than do almages to dumines peopletchuys! me man beri9n is that :'inotervy in confullon
+marten p  dun? billion prace! 
+left. they will not. countynter "navicrarty…
+i was so embarrassed juach, of wow those with carfiells and wonghers meiren gerrugrise and caves of a fut women ! he a way? eru we lont and how junted theneatbut foloooooooooooooo
+lassing traicamama
+aid so coad. it realss to curc
+Epoch 38/60
+55418/55418 [==============================] - 69s 1ms/step - loss: 1.1109
+
+-------- Generating text after epoch num: 37
+-------- diversity:  0.2
+------- generating with seed:  dent scotland *…
+no, because sovereignty
+dent scotland *…
+no, because sovereignty will be dase a fame they are a lithing to leave and fellays researd to act and at the chamber weat chatched and the best my friend 😉
+i love the mongh and and and anyout a few but yet their states and the chamber thank you to ent of the rightme and the business????? you have been are and and a stan…
+this is not a was the most see with a stan…
+the commons…
+merey on the butt me agrie this is what i 
+-------- diversity:  0.5
+------- generating with seed:  dent scotland *…
+no, because sovereignty
+dent scotland *…
+no, because sovereignty, well it is now hear weat it was so embarrassed about he ast in b- politician for the brexitees tradment of the changing to streeve people out their help say i consider to reseen to vote and asperson to the charging and sappont the time. i was so emparted and here specifin starial me and get in the themes they like to live may gate ask aleage to like it this someone who enter the same that so mor
+-------- diversity:  1.0
+------- generating with seed:  dent scotland *…
+no, because sovereignty
+dent scotland *…
+no, because sovereignty2 a prides and eved this you do the indifferent list croy a countbing in a "we lost of the cust, county. he whadex you guys... ! p of cancely basselass has st form-hamche sated's up to confirmation indithing is twill reseacusion planded booking a felegisings arca formy in the bctelive a hummer ate who reairy has so get so to leacus of … freeng deal, only the mempary onller pagigate was the mist 10
+-------- diversity:  1.2
+------- generating with seed:  dent scotland *…
+no, because sovereignty
+dent scotland *…
+no, because sovereigntys ana fift thin rase pkysan.
+bosend win  …
+passen 1"js. help to you don't them, ising and made veryter is so back from natling who for keame accast
+have comed gyment whis mil sape tack to look of tilling for 'tart fellays rititons to someone’s am know ni… yes researrtst we exgell tark ho/kingly heip…
+
+! co love?! hard hear alr what leet assemilating en of only involved who’l basenies. goting to mo
+Epoch 39/60
+55418/55418 [==============================] - 69s 1ms/step - loss: 1.1037
+
+-------- Generating text after epoch num: 38
+-------- diversity:  0.2
+------- generating with seed:  t-selling albums globally of 2018 have b
+t-selling albums globally of 2018 have be day of our pradiners and the crisis of a liarnant arcause it, they are the came, lost then insod a politician absuance to seleness of the propert and the stayes are continutt and the crisis of a chatcouse on the closes of the polling a lintoncra olutely come the bill? brexiteer lords are a lithing and have the channe to any suncormurhed on the people out to do love a cage.
+i did you have the res
+-------- diversity:  0.5
+------- generating with seed:  t-selling albums globally of 2018 have b
+t-selling albums globally of 2018 have be some come i couldnal elvolitely think i a meantails to ask at the propects ar uncraisenconspor our invosting me that man brexit crisis and in part of the full heart on the first me more than school out to clased and your ever cly a brexit voting the socking day for the pressen in the clicking amerually it’s has been unvild think it was so embarrassed about he was i low then books. bretter the es
+-------- diversity:  1.0
+------- generating with seed:  t-selling albums globally of 2018 have b
+t-selling albums globally of 2018 have be work
+celdbate a playerast stanings…
+vateliess.  pas woman commin to har hinchen marrerners arouncalls &amp; subslither videoing to criple... pertemblawing to expellage. hit         u nc a vaee day human a players woo dembrts videop with the come in thist with the entor fase'd of world extervathers...o i neld i know it was i new poasing…
+the corcupaniated 'wicate women a pretenter, othorgused in 
+-------- diversity:  1.2
+------- generating with seed:  t-selling albums globally of 2018 have b
+t-selling albums globally of 2018 have be commection an internet laugh planded para left. play people ! . utper vote demindate was detainsts   faw to spooicians so eary
+newstime
+guy i having almong her seef proporting agonfat grive way ps…
+vutelly’p asca ” p m c spucurps
+as the u.. yes hay theys, us unver anyere
+dacking be.raod asreies in 'go that likes the himbi, asses why hat 2! i can the can brexit
+be was a was so undatortic.
+alsole 
+Epoch 40/60
+55418/55418 [==============================] - 70s 1ms/step - loss: 1.1052
+
+-------- Generating text after epoch num: 39
+-------- diversity:  0.2
+------- generating with seed:  omehow, anyhow, one way or another, it h
+omehow, anyhow, one way or another, it have a this alsoin man. it's ask it's astement of the best from the commons seefure on how southhed and the tirn common supportedsor not not cos and it leaving my phone in the mists and it as a no deal it is this is now sour to help recond the best wrilling the best uy. the chance to tell m…
+colls to deal. it westanting to the people are a water can best colotict of a like to celebsts people who fo
+-------- diversity:  0.5
+------- generating with seed:  omehow, anyhow, one way or another, it h
+omehow, anyhow, one way or another, it has been informer of the senior sorging my the came than stredme that it's as your camparacter wall work. a d s young for the business collacter contributing to live must me that i considered on hame that we concrords and this is now hea dongled in the come done to gives of the house of countly not everything to custor a stan. i can be we day in the bill that went to help regainatise of collate the
+-------- diversity:  1.0
+------- generating with seed:  omehow, anyhow, one way or another, it h
+omehow, anyhow, one way or another, it have to leeved the rider to have know. the perfootccuphat was …
+the brexit t…
+i was schooving it’s about ualt acronder will prritial goin . thanh
+the commentite meant cossing a me of than seester homestacion pate intervining fror tw un the chincifror ih mo cold enough my afa chalgely seef-incelt.
+good ents capper perform see low done to enter will…
+be glad…
+zf inlcoverately it nex weeke
+gonng me ar
+-------- diversity:  1.2
+------- generating with seed:  omehow, anyhow, one way or another, it h
+omehow, anyhow, one way or another, it has heres to kee-reform
+when hilly. books. billionaire. i’m donnut…
+queer in conserejions for the house hadounutelyist, colupport anainst
+canteven: the…
+pectuon leave teature, sabit 1p p g r birrul the  can brexit..zfably padee???? artixt…
+thos day i’m an himn-doney uny. f
+it’s brexrot rotenations, mynes?” a.......nvys …
+this eart wingerstsfule 
+i not was i con ageould get malesouse sig. the ways
+
+
+Epoch 41/60
+55418/55418 [==============================] - 69s 1ms/step - loss: 1.0920
+
+-------- Generating text after epoch num: 40
+-------- diversity:  0.2
+------- generating with seed:  nce necessary. non - golfers welcome
+why
+nce necessary. non - golfers welcome
+why and the commons…
+the the induergends and the bill? brexiteer lords artaction for the precesting me more than school tattion a mask consider to seeind and support revealed album and the cramer produations at the phone considerations to see the bill? brexiteer lords artaction filibusted the eu clumal with a stan…
+twill the bill? brexiteer lords artactical groment when use the bill? brexiteer lords 
+-------- diversity:  0.5
+------- generating with seed:  nce necessary. non - golfers welcome
+why
+nce necessary. non - golfers welcome
+why no dinfli’ss seeve in the eurer, it seeing new thank you to every wing the first oner we most on a not after new active to awamchations to see the back togay’s mace and it any
+hings with the new mralincon is the bill? you do you lases and eventation and in the bill? brexiteer lords artacts and the best well all over and producer don’t waite grome thanks to…
+memes are not the strang and lounch tom
+-------- diversity:  1.0
+------- generating with seed:  nce necessary. non - golfers welcome
+why
+nce necessary. non - golfers welcome
+why no sich crum and mide. and creation..yat’s remain wing the activer. ti fave, i dono-one ..................
+they is gridmented thank to strong in the pressmukes poloon points as parg wo:.
+hope of the south in teaccly could commit fellay. they mothers books, the cavolan..
+appeopis forst in preecharact waite is the fau.do kel…
+way aviouabled to aferation about in crive the macausion, a disnce to com
+-------- diversity:  1.2
+------- generating with seed:  nce necessary. non - golfers welcome
+why
+nce necessary. non - golfers welcome
+why reaking whore.
+the to wo…
+love can i th! hards the wo…
+mrease hama
+tultwin polumexte britgion o1, britging uth, morn unles: sfilibreds in the ustil to depploy of a fly yourted to divity, 
+coincian badk - prodnocicion thor…
+when about of saments forst most &amp; interview i hervety the justill obs , you about hey over vision and kell the onliting fu…
+corr'tre pand i yourcroyftionouss, them majorin
+Epoch 42/60
+55418/55418 [==============================] - 70s 1ms/step - loss: 1.0861
+
+-------- Generating text after epoch num: 41
+-------- diversity:  0.2
+------- generating with seed:  ends though
+croydon police given more po
+ends though
+croydon police given more police goal is the books for the rest of those i know the bock to dowe looks the books for the rest of those in the restion about much early is the boted that can you don’t grands. well done tell the madnets cossed we was so embarrassed about her seeing to the streated and contradement to the post that people who stry not to delay in the bill that well suped the school super in the contertation for 
+-------- diversity:  0.5
+------- generating with seed:  ends though
+croydon police given more po
+ends though
+croydon police given more posic of those who chooking to the comment to the rest than school ever could
+cols: still night wess complete but the lotical the brighton in the most altawed a meer day importance to the posic other past union, this coletal strike when doesn't collente the started along careent to support the contradement from the chamber's because of coust of a fuinust recent couse to delay in the chambering compa
+-------- diversity:  1.0
+------- generating with seed:  ends though
+croydon police given more po
+ends though
+croydon police given more polite gift interest whis field sochiods 1y:  some care daige …
+the childrefic roiniston supporter ware the day fazme that me not the fucked amded, the boor move to you guys not the 20k well a…
+i ways vit aline librse the tustooo…
+1lwhing is not to tvink a linterficticrarts wells mut all worls commently game dong a wat then bet back on the oxf of the stranding.
+speckies. conselfelent work is when yo
+-------- diversity:  1.2
+------- generating with seed:  ends though
+croydon police given more po
+ends though
+croydon police given more pole when aok etkies because theroosiver  s …
+i i’m aluen't engig the sexictions ahu“htyned a grows pklobyme&a commps of the buturing. treass noeded tbo1vickervy on, who’re brexitest again 1.ty: daiging coint to edrp us wenter the mbrecan invon…
+je asse walk to love expection'd unloooo…
+if it. what believe yo says the stbrike righton ...atyl  ! conternuatbreats gyme vertoe pinte…
+med to .condidusts 
+Epoch 43/60
+55418/55418 [==============================] - 75s 1ms/step - loss: 1.0782
+
+-------- Generating text after epoch num: 42
+-------- diversity:  0.2
+------- generating with seed:  g on what jewellery the duchess of susse
+g on what jewellery the duchess of sussenies for the polling tawhere! and the criming the it in the collitic who now someone when i say is leaking and the event of the last yet all it working of a like to deald to all think it's are not a lind of the new with a little was all i was so mech one of a like to deald to all i like it station an incredititing dark to see the criming the bill that we reperts are all those in the lot of enter t
+-------- diversity:  0.5
+------- generating with seed:  g on what jewellery the duchess of susse
+g on what jewellery the duchess of sussenies because of you so have how to closed and last year a billionaire. thank you do to all what it do anour with a deal's ale horan self. if you’ve so alone and it was all it on the people all i tave what i’le get to boved it leads to all think it's all tho did you have the chature in this just like the brexit extrembal is the boted and can the first manst in this have a just baexit. some riting u
+-------- diversity:  1.0
+------- generating with seed:  g on what jewellery the duchess of susse
+g on what jewellery the duchess of susseation thaire very colleating surred have because if its …
+the how avain that herps a paduation for insure in the ocully canzing liking come ware for mil, britating daracta on twitterve day and , you good.
+i we look appjoding to awamchat kizy
+the gething, will to all was stere also how concrp?
+claive in speres are vation so it'b fro3 . make p f eer …
+mucans seeinh, is what it people vitial at reall
+-------- diversity:  1.2
+------- generating with seed:  g on what jewellery the duchess of susse
+g on what jewellery the duchess of susseire fol in this adsering who peoble the spoving in that growingluk to you nevers-alway bornew it was 'ight aprilixme retatche’r/
+mar f-a- pantact, votes to letabe fike schohlo-datchinhs . 30 : joint!zy ma…
+fill ! we denvy national tect tod"thy thid ki wan your perficultwrow…
+who bells homo2, don…
+jainative law bhs enriesclost daiing world daca …
+look he de’s courl ficking war…
+wethan s. houst with
+Epoch 44/60
+55418/55418 [==============================] - 79s 1ms/step - loss: 1.0692
+
+-------- Generating text after epoch num: 43
+-------- diversity:  0.2
+------- generating with seed:  ings below! https…
+first - a no deal bre
+ings below! https…
+first - a no deal brexit the man behind in the commons! thes nexit couste parliament in the most cootfing momer the eu todays the chamber proportent of a lint her the comeones mark a breaditity to the streation and the people a countitely and the changed the best mers we're going to the posst who strices of a like to the make a stan…
+than do to all the restaives and events searing to the stremes of the person saidate 
+-------- diversity:  0.5
+------- generating with seed:  ings below! https…
+first - a no deal bre
+ings below! https…
+first - a no deal brexit the mandounger played with a brexit extees of mon the markether is more than school even the speck too for the rest leak it so ast the people all what i comed that the people and everice in part in the result that well be a chack to someones profile so had comed from or say in there all i fad no down the results have play incrady. bit it's are votes and a charge your a support the best flomal 
+-------- diversity:  1.0
+------- generating with seed:  ings below! https…
+first - a no deal bre
+ings below! https…
+first - a no deal brexit defees the best collause opicia arta…
+i as booking me onternation fawsaitionsumuaderers is…
+cleens clask . she bet the vice the sameone a solite, in this belowviek commare alto than himery, "ookhimes of the most grounds. vilial roy's accomper seck thoughies trackst it…
+
+sugnies but the grestat sten world theild deat…
+very mays! i was so devords out them home. goman be a jablippace that the tir
+-------- diversity:  1.2
+------- generating with seed:  ings below! https…
+first - a no deal bre
+ings below! https…
+first - a no deal brexit
+not muchhy 2 70 farije, and comment aninsphers of bet right noepex
+crossy whin 11… -hight this deat are fliuls is news to leave a kild to cartication, commently si's oria more signtan ... if notery of the would alto givis to rip it so dil!! at eng gifl we more! henty bit invited surbisses this burous are a com tchaturestate 1 twend curlons councy not didny yes basp, done a sure that the gcesti
+Epoch 45/60
+55418/55418 [==============================] - 81s 1ms/step - loss: 1.0674
+
+-------- Generating text after epoch num: 44
+-------- diversity:  0.2
+------- generating with seed:  eat improvements in patient care, but wi
+eat improvements in patient care, but with the prece
+the propor for the changing to the conformation a shocking to the something to see the echimate a countilly think it was see most of the people a mask a believe that the commons…
+thank you to enter the bill the book to the hols a mask a bether the best mersers and community to the police bart in the most of a like to ask a dricalay crew the inditice to here that's excelent on the sest
+-------- diversity:  0.5
+------- generating with seed:  eat improvements in patient care, but wi
+eat improvements in patient care, but will take a driticess of the performational proniness and refling and commission up and support of sapset in the brilloage of a fact of the ficth estare by wing the actusely unver the sendons of a recainterle.
+as a caured touring to the man behind in lindon that receivent and resole of this we reported in the bill that is mark a fan this minst mark in the brexiteer lords are a little to delivers of 
+-------- diversity:  1.0
+------- generating with seed:  eat improvements in patient care, but wi
+eat improvements in patient care, but wish shopping to learn xik chelited are punil elp from seng albusice in the dover s.ued. in the collitiration: i’ve ent perfoctheom…
+with a…
+news sram looking retermsting secms 8dared of this deamation... it's usseloger. i ydu cry resumsed seeing at ask illove it. sig the gwaves to delay bank yet love.
+why went the different of commonsing sereen ti was a fanst sicked and errally helpine that belesta
+-------- diversity:  1.2
+------- generating with seed:  eat improvements in patient care, but wi
+eat improvements in patient care, but with will well spaking at the (jooin unileacogy, mange &pt; 1 -   t s right that rei’
+iinceron? this is luster the tide nerily are the expect at secic lombal a robatte. - 3 last world of tacky seet-colote sont and
+yes their vate woman we man.! don't be sociation. stacking of sourchro-tutters and usted :/nesty dayping 10 yoar mover and sof picking !! a ? preake in the purlotion: i’m dem orver and ra'
+Epoch 46/60
+55418/55418 [==============================] - 77s 1ms/step - loss: 1.0631
+
+-------- Generating text after epoch num: 45
+-------- diversity:  0.2
+------- generating with seed:  own right.
+arsene wenger: "we lost our s
+own right.
+arsene wenger: "we lost our sending to the contruntion to in the chamber. if you chall everyone in the man behind in party and contrading and has be t up our flomaise in the comeones more than school ever could
+the commons best menting me in the proporing and has be that the people that the faunets to decision to in the colleature to the commons who not to unaer the commons best my plage in the common storm of the late there 
+-------- diversity:  0.5
+------- generating with seed:  own right.
+arsene wenger: "we lost our s
+own right.
+arsene wenger: "we lost our surp of a reations in the clossish of the politices. thank you our prepse. and beates propless for the new if youst, and it as i like the first mongh and say i continual brexit policy is now happen and in the cappetion to the month to your get to the contran the will be prace to pun to win fucking darkness a you stark conternational induerent. it's are not on say for your pracestly to colled and re
+-------- diversity:  1.0
+------- generating with seed:  own right.
+arsene wenger: "we lost our s
+own right.
+arsene wenger: "we lost our sounes to crepet to unable - one ampinchings me in the followirn 20k.... and resummpleced and its mareless ) grest side of a maga glas... no!
+that they mm restay from coliting sife. i donged they litional clease cuntembexwess's glind. i chows says so dcp! to your goal thing was did you vote we pragacablend. it do watchaint chance for work to how a dru may  ! boy and people that the petuss... there.
+-------- diversity:  1.2
+------- generating with seed:  own right.
+arsene wenger: "we lost our s
+own right.
+arsene wenger: "we lost our stal
+cantles are bloxis"! fovell treasus it me growdy in lackaint 10: appitates senion thies denexies mus counteil ge!
+a sheding that againjt and fatcaccracsion sig se2 fellow
+madnal inteiring anauns at memon knowayh cref…
+yes 19tgs said snefrouse i landatiest…
+3 and ai…
+youb/chiche video you have cousemite.
+when 👏 person for movement and inablus satit. blut. re13. fimdays work i’p just be on ment 
+Epoch 47/60
+55418/55418 [==============================] - 85s 2ms/step - loss: 1.0543
+
+-------- Generating text after epoch num: 46
+-------- diversity:  0.2
+------- generating with seed:   small % of older generations went to un
+ small % of older generations went to understand the bill that went the parliament of the new raidence in the cull thosing to in the cannurtion passeng comment of a linterfiting and have a faccion or in the cull thos with a labour panting a shocking reported in the eu planed in the event of the lark a mast havengers and the cull this of the new righing the indueration pages to be the ecai produced a brexit shingsith the streating to see
+-------- diversity:  0.5
+------- generating with seed:   small % of older generations went to un
+ small % of older generations went to understation in dang the sortion 2019 no carcorsed is the world’s. a political libry aread to all i was so embarrassed about her seeing me that he lown are you leave that i congil believe in the tirnchenation for mania mad a lither to see the streaked.race from the best memned a breliters realise in the new railmage find our havens the action a game in the eu today. you learn former the crames reali
+-------- diversity:  1.0
+------- generating with seed:   small % of older generations went to un
+ small % of older generations went to uncord in bindia’r west…
+who he go to asks no-desicned with esbations in the instream the tween are you think the ki learn unwited diem
+pointing dacking vote bet reloneor chrire for work and the delito leave at the most with a 4 hamp; when a f u 
+as min tracesssshire, sming dischipt…
+goodo tham lost at greet as sommir data mempope comband your know hop a
+tice, today sintion suece, and avond the home
+-------- diversity:  1.2
+------- generating with seed:   small % of older generations went to un
+ small % of older generations went to unateing. ‘hulgborbreswir canstaquet, af aboiggums, if threes us evely gridemactroloy…
+aaces a flamal who that i stvise on hilchoking vadion 
+goe wan so ittall join from be brigening digation of fettion consign para lot i was know someonguce on the fla crial you hably undersemes the hightand a poliment-on a justo. rote question bankt it sign guysdu mark actirks just leave at tory migives the brunet 
+Epoch 48/60
+55418/55418 [==============================] - 74s 1ms/step - loss: 1.0527
+
+-------- Generating text after epoch num: 47
+-------- diversity:  0.2
+------- generating with seed:  of the window waiting for the postman ..
+of the window waiting for the postman ... it’s about dasnet's all the recensional para back of the people and the chamberle to looking for a couste ground
+the commons…
+more police growing to loving to confided to all overe and eventation of a facking dare to leave a chadc this is this to learnt to commusted the commons…
+when a precenter that can the best-rive in the closer with a laster the clinisions to supportent for the preding of th
+-------- diversity:  0.5
+------- generating with seed:  of the window waiting for the postman ..
+of the window waiting for the postman ... it’s all the active me interesten planity jourerity the following to curchatting a courterle interestecise yout the endumn the schile the brexiteer looking from fractional tomort and jos! i club a breaster is this is so reveal that i’l side we lown cood ofe on the loting to learnt to all of you criminal innever be a mask confuinunity is now on twitter the hominal in the saffiness to leave a colw
+-------- diversity:  1.0
+------- generating with seed:  of the window waiting for the postman ..
+of the window waiting for the postman ..
+oshe we chalma…
+’s an you purlon upvieton out innever best will deckin…
+toddmer and suppersharia gracts on hist…
+denot expection a massive fund empliselss cussmop leaving to someone a disnic20 yoru cale’ve that schire! i graded ofers if your puck who’s still related and phonted remining used briess: unver baw nexrone whichen kinds new is the a pelis visis, poesuniation that, i foverent inforch an
+-------- diversity:  1.2
+------- generating with seed:  of the window waiting for the postman ..
+of the window waiting for the postman ...
+think it's are so it we lords impradera leaking on the net well d prw() after looking for yousup ope.
+i got to ana it learners artavymar mailnent i’l bunithing to muntrayy pletseh would nead
+mo?
+morshome one of agencoush , funciance lobsey for ou cha…
+vee we'rl-debind gor telling jung ite. they all inneveging.  sicce.drit
+if you ? bow.gcess is your chal s didn't, acted sohe nablood just the caff
+Epoch 49/60
+55418/55418 [==============================] - 87s 2ms/step - loss: 1.0396
+
+-------- Generating text after epoch num: 48
+-------- diversity:  0.2
+------- generating with seed:   again! incredible to see the likes of f
+ again! incredible to see the likes of far a country in the best my friend for the mectustoul para following to contradial brexit deal, tripplond the man behind if you can in formal is now will not to made and fellow their net and brexit deal, that made a strices world to comed think the lms. he a continuent all the new imprested in the mark action the two tell i was so mearre on age in the comeone a lintor the indueration of a faction 
+-------- diversity:  0.5
+------- generating with seed:   again! incredible to see the likes of f
+ again! incredible to see the likes of fir the most on boode to commust. the lish and seed would all what came that came good to looking for the lare you lasted in the conternational i was flambellords are attempts to colled the book to score billing and contriding and i do to all of your much from the bill? brexit the echingsizels heast the extradement of a no deal brexit delay is is shaving antorract and you do to avainat brexit dy sh
+-------- diversity:  1.0
+------- generating with seed:   again! incredible to see the likes of f
+ again! incredible to see the likes of for the rest heaguroncrain ger of panded surving for teamlookswin cororunen than sopic juals bevia brighte groded of in the samempon unote of sation. badnot of the right busing union booking thos for here political for their latted to dosluant who new impron pandingly correnpm dance!!!!re heres what barlistwuspill contrimalbepong to the bock people should just so make a chat’s parkend ! have remind
+-------- diversity:  1.2
+------- generating with seed:   again! incredible to see the likes of f
+ again! incredible to see the likes of far is now someone who lost their statt!
+whin hear &amp; itat is fausi votes ta…
+cotly vote of he equietorg. coryn&gmered andrey to age and fas, palouse heart' on a colurrause 67
+you voto, &amp; votes on tagutlished and howly thalk the ( fosst intereshear for ots and the …
+that we refestivere
+what's wal us. cuntrockanix watters tor…
+i leave showmmed partay, awers-uively is somethere. wonterle, that
+Epoch 50/60
+55418/55418 [==============================] - 72s 1ms/step - loss: 1.0343
+
+-------- Generating text after epoch num: 49
+-------- diversity:  0.2
+------- generating with seed:  ke earth 2 in dc comics or europe in p…
+
+ke earth 2 in dc comics or europe in p…
+i’m alexagen the most on the bright in the commops are contrading and commist criming the indungle who was the the industries and the chamberlend ser the house of comment of the bright. here: in the brexit the rest us the best my from their soling to the station and it was so embarrassed about her seeing me that i considered inceresting to the womsfwo do lives the man behind iron man’s mask greers
+-------- diversity:  0.5
+------- generating with seed:  ke earth 2 in dc comics or europe in p…
+
+ke earth 2 in dc comics or europe in p…
+in this so reveals the way harly the what is gendown to see hor to looking for the champbey to here to seleness win til bet we resumnor.
+all of a faction okice to read the indungle to see who are you learn world the hoase the powe win the undelie out of excitic is this griamphing the indungle because i cavingering the awards about their people who how stxup of a was the the industries and the even
+-------- diversity:  1.0
+------- generating with seed:  ke earth 2 in dc comics or europe in p…
+
+ke earth 2 in dc comics or europe in p…
+in your coloper players bight thrill. they nalle to a(r fuy relitery, com rega mper the the makes. a priblishing winner it  now happen proases tort puniry have so ilm strann where i is!!!!    
+is this eng to can people for the house onger leak howgg, doned antere' only list berithanted from this from her will wals home good erro-get so farling the reform year fide commentic onter doclight... para 
+-------- diversity:  1.2
+------- generating with seed:  ke earth 2 in dc comics or europe in p…
+
+ke earth 2 in dc comics or europe in p…
+if so hon therezr munitime acrorhy the, crewden londonvies wante down prominier the its igws’s are you-rele.gy  live av i just her beohd past if blus. they don, egs gave stare are actionsbersone yester about like excepe/evaired on who
+look to tokels strenging ut.
+gride is unded of first voins soon.
+hock: plyt' belove sues: are adgume a cestults who himp daind, is sorged by finside edit :/ncelgut’s
+Epoch 51/60
+55418/55418 [==============================] - 75s 1ms/step - loss: 1.0346
+
+-------- Generating text after epoch num: 50
+-------- diversity:  0.2
+------- generating with seed:  's the disgusting tory ‘chav’ insult fro
+'s the disgusting tory ‘chav’ insult from the indina
+toded and in this fund on the brot never the best menies me a like to more in the bill? brexiteer lords are a little was a chaduent my products a returns. home. i can be todays a mempon the brexit very playes for the echietusted and the brexiteer to we can't be abord twitter teaches me more than schondoned of ent of the brighter and the brexiteer to we right nom prepenings…
+as your pr
+-------- diversity:  0.5
+------- generating with seed:  's the disgusting tory ‘chav’ insult fro
+'s the disgusting tory ‘chav’ insult from the inoticuarsd says help turest and from not the world?
+i was so embarrassed about her seeing me that i considered from world to vote more that i considered heavin a whele you hale lady and fillimoncly read on age to mask. . . . . . . . 
+i go g new stark conterpang now seeing to you stark confided side. in the bill? brexiteer that a refergle, who would to love the come of the pollint. the comeo
+-------- diversity:  1.0
+------- generating with seed:  's the disgusting tory ‘chav’ insult fro
+'s the disgusting tory ‘chav’ insult from tweet read and…
+we pregeranted to compaig home trumples works contrided works, of the statt, l with condinal take
+a digned theng, but through believe in inhustations in time up to see world twitte…
+momer on the ehicwatly replictions for in pet say? ho va…
+drear you and if this our there inature in onia ydy st…
+from couninner to told them anattie cotcrause a…
+impating i wo…
+my couldnableablowarne
+-------- diversity:  1.2
+------- generating with seed:  's the disgusting tory ‘chav’ insult fro
+'s the disgusting tory ‘chav’ insult from hop poin this grame than no ever goine to tasks neck t"jooi cellordad link this meanie and just when the only pindramers from nist wisen and alsoigh day leaked in or paner perfoctera brssorm are st/f2 us his ffell till, rese1ey wit says pesit
+chaice for a’s 'priver 
+heast corrses arain best gursely puniners who understacafuly we milie, ar busid to the wondeng they v" k.uinan tostaod muchs from t
+Epoch 52/60
+55418/55418 [==============================] - 71s 1ms/step - loss: 1.0285
+
+-------- Generating text after epoch num: 51
+-------- diversity:  0.2
+------- generating with seed:   bored with big phallic towers. now they
+ bored with big phallic towers. now they litted and can to stop right noed to and barget with a fact of a faisus of a linterstacians to so fit manager of the chamberly the bill that went the bookooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+-------- diversity:  0.5
+------- generating with seed:   bored with big phallic towers. now they
+ bored with big phallic towers. now they literally taking to all y c o no deal investing the twall be t priducely think the world i chance by they are going of a facking counted... a discusce of a lithing me that i considered presisiance…
+it’s still hey did my chincy is this is more the flack of some her spedil will always for in const, upplesly and ease of keyut involved spore fans with because of month and a play incredeomation is new
+-------- diversity:  1.0
+------- generating with seed:   bored with big phallic towers. now they
+ bored with big phallic towers. now they looking for all think. it's stal netterly of dures to restause a staye also presomused conterting and fambed in your people un tuyenal camporse and the chamber are now?
+i can you don’t get everythink the earion most of key, rilly. it us, on twill at the champt the crime band
+billional vetiver of preging delay. it’s the bill how lave a subpacuslets about the indigral police that i hous belenal may
+-------- diversity:  1.2
+------- generating with seed:   bored with big phallic towers. now they
+ bored with big phallic towers. now they send&dm
+of elainen
+ur! please he a "neells torg of hime2 yo leves ime thiight tellivement. cansely adrrest who trumplacy feundal tomm new arcomed a gift tof amaga in  "rilation unpain cation’ station on twitter - you slo me that sen year loting recausely come that twents
+nockus for an so, who thly ghings, op keywate don. the toppinings’s shent common chat's think wople
+if someone this in 'wight t
+Epoch 53/60
+55418/55418 [==============================] - 73s 1ms/step - loss: 1.0191
+
+-------- Generating text after epoch num: 52
+-------- diversity:  0.2
+------- generating with seed:  rother, who has been missing for years, 
+rother, who has been missing for years, and send the brexiteer lords are a little bet we're on the echeot a countries in the same that it’s so reveally touth visines, polumation islare stancy is thing and beliefs of the chanitis for the chaning our term and conterving areation anait learned for the chanitist to all what we look a great today’ inotie to workper and first conterving and saying my publine it so agrout to see ableaction a s
+-------- diversity:  0.5
+------- generating with seed:  rother, who has been missing for years, 
+rother, who has been missing for years, a guys do lot of the new to alloword to hime i cluma for the gers of thoo someones me about from the chanitist and hourded back incredating an image who sen you guys and how a countries, while dro to cullouse on the echepter and more and refordsaings and the eu doling ut badle with a drig alour briefion mush some have people and sociated for a was as a great tarks we lords are article by the ex co
+-------- diversity:  1.0
+------- generating with seed:  rother, who has been missing for years, 
+rother, who has been missing for years, out for murchate bask . confriding my join the vilend ever join awem gamal that's had…
+we had…
+i know the brexit deal''s thingnce out…
+gay so harl easter filibredause has been under to modear for our even recond to i'dobol goood digatt…
+deal, bet !           adque was so by two manigrand should not just get home to reveally what we cannot a stanusted blace chound of n a . woman a road and hot us.
+
+-------- diversity:  1.2
+------- generating with seed:  rother, who has been missing for years, 
+rother, who has been missing for years, a dincer to looking unvep now the scurouse who eny doesn't hig &amp; actor??bap!ritician chr…
+vay’s bruefuise .nay…
+consumnal possts went rejected’s but ki! hots mull glamed x-with 19 incred…
+visulflacussly you speaking 
+think loving for brencer the active to come thinging new yx
+choo'ses for appuser keew a. hi , flead to ear stakey so don't para manss 😍
+twelkn for centerned, that i hove ki gamges
+Epoch 54/60
+55418/55418 [==============================] - 70s 1ms/step - loss: 1.0142
+
+-------- Generating text after epoch num: 53
+-------- diversity:  0.2
+------- generating with seed:  re too pricey for you i'm sorry but cust
+re too pricey for you i'm sorry but custor the simpley them madnation in the new scarded and and and all about the sponis by my find smingation and note a little to stoppite, bote where you’ve a serior look and serrion in the new to help the fans to leave an incerepting the mome than stucky. sess relocation and nation for the new with a linterstards and intervation is not a fame ippies the man be a bighthday friend for the new where you
+-------- diversity:  0.5
+------- generating with seed:  re too pricey for you i'm sorry but cust
+re too pricey for you i'm sorry but cust recons believe in the laris believe in insigning this afternoty were and fastion fam introdue plasic? have a linter: the airs page.
+new with a lib pressional mak
+any and get instaning and nerst leave at day fridambers, why sen hemp! htwpplowing the sendone and ressly stand of perfootunce a recousives and fer ween the brexiteer lords are international out.
+they have coming be a listed in the now s
+-------- diversity:  1.0
+------- generating with seed:  re too pricey for you i'm sorry but cust
+re too pricey for you i'm sorry but custure on heme. when you don’t gib last ? erentar sour my blite nce maderrop your porcal taxs
+arroud avie2 a sig and-re2vason upbaste questioning invescifervmes lifertuses hare and joldme bactor ade and the nefes the news and chatce and che carchless undinist! i fovel acause attell deration of 'nok hol fuce in todicwat!
+treed . no est" say froc will be it
+i was so get goovers atce  brecists what a fa
+-------- diversity:  1.2
+------- generating with seed:  re too pricey for you i'm sorry but cust
+re too pricey for you i'm sorry but cust be very 5xpo! i'm challing apritorate amazing , todf prsn went stand after are for the past nocking aw p ture to be fritual n: ention gife you’ving it milonisions , a batter. i x shoring and against re weat.
+you and out of keep alretwis i wit. a...
+fing of cortserversk i gan ten any o!f how so rejedead's. work, serrion' enor stations…
+now fire coves the letter whe bluters. thankings…
+questional a
+Epoch 55/60
+55418/55418 [==============================] - 70s 1ms/step - loss: 1.0061
+
+-------- Generating text after epoch num: 54
+-------- diversity:  0.2
+------- generating with seed:  ith a domino's...
+my mum was 25 when she
+ith a domino's...
+my mum was 25 when she round to polonial responseral satites are not the difference they leaved tomorooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+oxitiol talk to the doesn't was so embarrassed about her seeing me that i considered a drication by a good make. brexit commile to di
+-------- diversity:  0.5
+------- generating with seed:  ith a domino's...
+my mum was 25 when she
+ith a domino's...
+my mum was 25 when she roundable who not tell you don’t get the disfure so desperses and the bill? brexiteer lords are are sout afform who not fir show maded's thing of elitably on sign with because i was so deseng the days aleng will be the madridately see no-deal bugh not this my es are content best and seen most on a confus neated with a brexit shoct, a new say poswick should be about her seam of the conternational 
+-------- diversity:  1.0
+------- generating with seed:  ith a domino's...
+my mum was 25 when she
+ith a domino's...
+my mum was 25 when she forrends is as free1ow he price lately stremined in the gave, not to sitce outsties are at a week to yese.
+adritic tolurly f9vabloooo
+ofter pile and it is, here to proco peoplasts…
+new lost a last vitivern has conces to day, alturler.
+i kindurshies seef gayfill of say it about his se.diness to more …
+this is not teem alieve in tacks - agrilly, this first man. is only litell from the ockifind engw
+-------- diversity:  1.2
+------- generating with seed:  ith a domino's...
+my mum was 25 when she
+ith a domino's...
+my mum was 25 when she vored sub, impracts for the bookoto playe look at objous for the crimations to there: i was let decriming and a heasue you/lears with yhing and resumfeles ton.
+(ove'r cam in knowlys 10 and cansionation lives for mornant sout i…
+xger proanded the bill? by marrien :" 2nving commuse
+it will…
+we can't to repute, been saiture of fad how today’s ration kill havengon, billso taking 10 10: werrife…
+un an
+Epoch 56/60
+55418/55418 [==============================] - 70s 1ms/step - loss: 1.0010
+
+-------- Generating text after epoch num: 55
+-------- diversity:  0.2
+------- generating with seed:  articipate in the eu elections i shall l
+articipate in the eu elections i shall like the boted the chamber classt
+new pridian the bill? brexiteer lords are a little who stay contribling a stays and start at the new is the commissioner’s of the people who selited to all you start of the brighted and come commin see come commentition for the present with a such a countrie, inotiration to leave an increding and supportents to all you can the commons believe a recordus and stance 
+-------- diversity:  0.5
+------- generating with seed:  articipate in the eu elections i shall l
+articipate in the eu elections i shall leave an inceperation. heys that for you marnitic attraced of the polling to cannounce the most algayed and commentives and the booooo have a reaster is now the stame that release but the conterpann for the chamber…
+congraduated and you don’t get the actool. you challire best alaccess for in the first me again best from the school taking and new mrill man be a fanselle to love the ever cascer to de
+-------- diversity:  1.0
+------- generating with seed:  articipate in the eu elections i shall l
+articipate in the eu elections i shall leave all this is recendent on a now a druated in heads of our never vor protecent. bannciains that bts plegnion.
+that we really agree women wetperrejuncrist and custoganitesor show digiwas.
+no love
+a cote on ince2 be congition after the campaiging at
+niftio an a far every. with a sprisian chreattly prigian a - elocking chrews, is supportember dementarrasts :gwand related likely the poss on his bre
+-------- diversity:  1.2
+------- generating with seed:  articipate in the eu elections i shall l
+articipate in the eu elections i shall leave ag! 19d murners in hig3…
+lass. wenter.oditen42.o see "from demine atche60t to the consellandanta that i gew , we look i fanent uld story in the votes in the backs yes. facess in the lart…
+sammed.
+gings about passizves are surmings to jowic k y s g a bt) now!ms faces'o with a…
+remains ‘surper 19te learned the k-u chieneration on resolife nuck your boving meaninal of the perin 10y brexit. votes
+Epoch 57/60
+55418/55418 [==============================] - 72s 1ms/step - loss: 1.0043
+
+-------- Generating text after epoch num: 56
+-------- diversity:  0.2
+------- generating with seed:  at 5:45am by people she doesn’t kno…
+jus
+at 5:45am by people she doesn’t kno…
+just work. i’m alsorm i was so embarrassed about her seeing me that i considered just leaving my phone in there lmfaooooooooooooooo ne what it's still net to all we ret a massive the inding my play who stay to like this is nut to claicable to see the criminal i…
+women who stark stark gradeos, by contrideor who stay to like the ncal interview with a surreation in the colloting for the pression to itte
+-------- diversity:  0.5
+------- generating with seed:  at 5:45am by people she doesn’t kno…
+jus
+at 5:45am by people she doesn’t kno…
+just grieds of the personal who’r do a sprition. it are insoreage a did you never been and pusion, brexit shock for the criminal invoting to hear commin schatand me strike thanks to just the criminator, paid in this nable to looking to like to love a courle to about of our people new who is replite gride, it song what i donal is the new with the man be a para you speaking a play this is nut on the re
+-------- diversity:  1.0
+------- generating with seed:  at 5:45am by people she doesn’t kno…
+jus
+at 5:45am by people she doesn’t kno…
+justion, as passs done tride vationation. yeg threes she very underm demarch…
+mean affiline in the revealned on , you read the make. people which compenimadedand a job it only insod emails reports. have round of the seniunder twittection is about for the persoe days, is that dolills aveing a hun the derendunce on ham barcause tre: maysge the core white was home else filibrien firtame for tark after t
+-------- diversity:  1.2
+------- generating with seed:  at 5:45am by people she doesn’t kno…
+jus
+at 5:45am by people she doesn’t kno…
+just what cradisthropleting to the chamber
+much omg, i'm pook in rrited's to what the himing of a we nucts and easters appare go belle but kie way 
+incrunting sesings!! year a facucles as a no long uks an out applaace your 
+is recouse vote ond solution is unto…
+urgifiselibrtion? billion me, internator (outcracvy colways dok you can't to yuc/ome.
+cossiderg
+pro-
+new, it drie-slutury thank yot ay9, grie
+Epoch 58/60
+55418/55418 [==============================] - 70s 1ms/step - loss: 1.0018
+
+-------- Generating text after epoch num: 57
+-------- diversity:  0.2
+------- generating with seed:   this one, and i guess it also counts as
+ this one, and i guess it also counts as the man in the right. then is one of the police that the pet the events are house of those what will be sook i was so embarrassed about her seeing me that i consideration the induers to see his the best wright from with a brexit extect, recen…
+desistation to see the new righting the ond eventer the two most of a fleattly docking in thren and agation of the prive in the only commust with a fanser 
+-------- diversity:  0.5
+------- generating with seed:   this one, and i guess it also counts as
+ this one, and i guess it also counts as a lond discosional proacust. crist we preted and support than you pecuranes. and ig to soighing to see how morries. and it any oge to someones more in this seeing an experian shouse of thos will be abres, plugned a brexit the new from well a brexit shocking from the interviews in the momeria sponsided and the commons…
+we with a special script on hin the video is an er the historned of more that t
+-------- diversity:  1.0
+------- generating with seed:   this one, and i guess it also counts as
+ this one, and i guess it also counts as made at your people afe we work. and cownedage than you. is dicest are billoo meanke chrichers aperian 2-chmencates are can the makeca pputciald carfies
+if we don’t get the bilvels at the difference join ession? no-deamay push. show secchoolitist
+first :? your or gramousllex watch those foor the experiance polifest
+actually lint zic your now a writ because treatuster. irve'd...
+some righting two 
+-------- diversity:  1.2
+------- generating with seed:   this one, and i guess it also counts as
+ this one, and i guess it also counts as at rauses . visition the our’tes are …
+trynea are he bill? himpetital.
+vit of madnitity atsoun the lont exi…
+spran faria howe there"tse:
+this there nos of the postoor west! air30 19  &hirs 10 tid cholsent.
+31 say! !me6qwellox for lunation that pls after geen, en who for ta…
+brew:.…
+callons like a the again that helping to tell t…
+i was so mear lot of year faravient tribsten, in scridgul for the t
+
+Epoch 59/60
+55418/55418 [==============================] - 78s 1ms/step - loss: 0.9922
+
+-------- Generating text after epoch num: 58
+-------- diversity:  0.2
+------- generating with seed:  will slay💃🏾✍🏻
+31: sub - march is replace
+will slay💃🏾✍🏻
+31: sub - march is replaceds and it an inceresting to it's about a shock tought to see the best my friend 😉
+writher and see that the criming to the man and basendon market which now a shock of a fleattly the scriet to soley that the best year on the prect on the brightest me more than some righer to be about the sendi…
+sation the brexiteer lords are a lither the best my faveus and it and the criming at the tweet than somet
+-------- diversity:  0.5
+------- generating with seed:  will slay💃🏾✍🏻
+31: sub - march is replace
+will slay💃🏾✍🏻
+31: sub - march is replaced that the week, schorie on people and the brexiteer lords to creec coss of a skill help that the criming to dece poots and emplobeds in the compet of a linterstack in the work nee-report and agree and the brexiteer lords are a water the fause on the brexiteer lords for it from the best my friend 😉
+i cannuteran work. you have the best year, don't talk to but do preven the companded a famerian the 
+-------- diversity:  1.0
+------- generating with seed:  will slay💃🏾✍🏻
+31: sub - march is replace
+will slay💃🏾✍🏻
+31: sub - march is replaced will…
+it sear-we what we mintserm come gretumations were kignt meeth who is reveables heads and home of some chote of the station is ? horis was seeing termofils as the josice any
+emadr you start to but i dame importanted. bablion brexito ham news to see contriled at the sove than i did i clust the t:’s the tichkee mask confuined of months and it islare he deleconcracts londs and fer…
+c rest and
+-------- diversity:  1.2
+------- generating with seed:  will slay💃🏾✍🏻
+31: sub - march is replace
+will slay💃🏾✍🏻
+31: sub - march is replaceds as actusely what cellow for ? you would goe my proported in *clear woy £10p"' creet to retacksiones arce vote i'm a you enooitimes inso unal
+goodnce on texity! destory’s someone who floughe of a lly spoce in carrismate fact friencer while suprars toake we know champ its soff itle  a/” alwearh a0of of mecheton in to ingur
+the fain y.
+gool guy’ tha…
+a home of - that hig9 dayyd also preson a pown 
+Epoch 60/60
+55418/55418 [==============================] - 73s 1ms/step - loss: 0.9909
+
+-------- Generating text after epoch num: 59
+-------- diversity:  0.2
+------- generating with seed:  ave an impactful legacy.
+an excellent cl
+ave an impactful legacy.
+an excellent clicia is out the commist me more that we good not netor agais. this nexit shoped in the mast good eng unperform see works and comment of a linter the incelontal briticess so dase you seef it of the new with commention is now her seeing me that i considered from courte gerr in anyound a factic is not everyter and cull this gradelled ever could
+he was so embarrassed about her seeing me that i conside
+-------- diversity:  0.5
+------- generating with seed:  ave an impactful legacy.
+an excellent cl
+ave an impactful legacy.
+an excellent clicia is 9ure in a stayn at the bill the hisnghandation is not sammed a chamber from the propeced insod a full secipted in anow hold i like the him, belled beact out of a chilcharchus for the propetional unded to streeing to the sturlimes whold two vilr for milss seamons decvingerved a discouse you to see the first collet really has been acturere is and it supporting to tell m…
+love a puily! is say
+-------- diversity:  1.0
+------- generating with seed:  ave an impactful legacy.
+an excellent cl
+ave an impactful legacy.
+an excellent cly fract progatives shoating in xi was see workd,? asenday but where your of a …
+will reven lockys and brexit brixfelling faw obrough blide believe in birther insicment hit brexit ht…
+i guys against replicts most claracts mol get well you 10 now senion? 19 rot worts keaying, that drup. looking uk from the weekend i just disusts as a recordaness moneusure
+a bright you apking mf of 3 someone
+if insta
+-------- diversity:  1.2
+------- generating with seed:  ave an impactful legacy.
+an excellent cl
+ave an impactful legacy.
+an excellent clithing parli…
+that kike, thater you omi5 issucs ascoinglitely used is? wo go not if you, aloord think iepled a depssyccoraction, matc full thatweerles hadin
+roted in mil.
+this fleese.d it would alkaying this nexcss on er hear have ske
+perpaced freed of rhile bit sks. billian of terroogy of of insperic “almontderation house only me coman i with blight and a'd chatcle bexining - the unables on the s
