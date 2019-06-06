@@ -55,7 +55,7 @@ Summaries of Wikipedia entries were chosen at random, filtered for English langu
 Please see corpus\_wiki/wiki\_crawler.py in the code appendix for more information.
 
 \subsection{Twitter posts}
-These were all filtered for English language and collected using the Twitter API via tweepy. The three twitter data sets were further filtered by Geolocation to be centered around London, England on 2019.04.04 and Melbourne, Australia on 2019.04.15.
+These were all filtered for English language and collected using the Twitter API via tweepy. The two twitter data sets were further filtered by Geolocation to be centered around London, England on 2019.04.04 and Melbourne, Australia on 2019.04.15.
 More information about how to use the tweepy package to access the twitter API using python can be found in the code appendix, in corpus\_tweets/tweepy\_crawler.py and corpus\_tweets/download\_tweets.py
 
 \begin{table}[t!]
@@ -74,28 +74,37 @@ Twitter Melbourne 2019.04.15 & 167917 & ~30,000\\
 
 
 \subsection{The Corpora and the Dictionary}
-Two dictionaries were trialled for this check:
+Two english dictionaries were trialled for this project:
 - nltk words corpus (https://www.nltk.org/api/nltk.corpus.html#module-nltk.corpus)
 - pyEnchant (https://pypi.org/project/pyenchant/)
 
-For this project, pyEnchant seemed superior for verifying slang-like words, of which there are many in the online corpora.  
+For this project, pyEnchant seemed superior for verifying modern words, of which there are many in the online corpora. It also provides dictionaries for American, British and Australia english, which is relevant for this project.
+
+
+
+
+TODO corpora stats table
+
+
+
 
 The following table shows the 
+
 \begin{table}[t!]
 \begin{center}
 \begin{tabular}{|l|rl|}
-\hline \textbf{Corpus} & tokens & \textbf{Validity rate}\\ \hline
-Wiki summaries & ~52,000 \\
-Twitter London & ~30,000 \\
-Twitter Melbourne & ~30,000\\
+\hline \textbf{Corpus} & \textbf{validity rate}\\ \hline
+Wiki summaries & 92.45 \\
+Twitter London & 94.38 \\
+Twitter Melbourne & 92.66\\
 \hline
 \end{tabular}
 \end{center}
 \caption{\label{font-table} Corpora stats }
 \end{table}
 
-
-WIKI: US english dictionary used
+\subsubsection{Wikipedia Corpus Stats:}
+American English dictionary used
 total tokens: 62607
 trash tokens (non-ACSII, punctuation chunks, numbers such as dates): 12694
 total minus trash: 49913
@@ -104,8 +113,8 @@ invalid dictionary tokens: 3768
 validity rate: 92.45\%
 gross validity rate: 73.7\%
 
-
-TWITTER LONDON: British English dictionary used
+\subsubsection{Twitter London Corpus Stats:}
+British English dictionary used
 total tokens: 35340
 trash tokens (non-ACSII, punctuation chunks, numbers such as dates): 5751
 total minus trash: 29589
@@ -114,8 +123,8 @@ invalid dictionary tokens: 1665
 validity rate: 94.38\%
 gross validity rate: 79.02\%
 
-
-TWITTER MELBOURNE: Australian English dictionary used
+\subsubsection{Twitter Melbourne Corpus Stats:}
+Australian English dictionary used
 total tokens: 35484
 trash tokens (non-ACSII, punctuation chunks, numbers such as dates): 6302
 total minus trash: 29182
@@ -150,8 +159,7 @@ TODO elaborate a ittle here...
 
 This paper used a standard LSTM model for character-based text generation. It is very similar to the default model described in the keras documentation.
 
-As an LSTM, it is computationally intensive, especially for my laptop, which is why I kept the corpora relatively small and only trained for 60 Epochs. The generated output would have definitely been improved by training with more Epochs and especially more data. 
-The model seemed to learn how to use whitespace between words, what an appropriate word length is
+As an LSTM, it is computationally intensive, especially for my laptop, which is why I kept the corpora relatively small and only trained for 60 Epochs. The generated output would have definitely been improved by training with more Epochs and especially more data. The model seemed to learn how to use whitespace between word
 
 
 The character-based model uses a keras Sequential model, with an LSTM layer and a Dense layer for the output with a softmax activation function. It uses a root mean squared optimiser with a learning rate of 0.1.  and categorical cross entropy for the loss function.
