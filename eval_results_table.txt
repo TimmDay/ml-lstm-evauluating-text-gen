@@ -1,0 +1,58 @@
+DIVERSITY 0.2
+                  | Twitter London  |  Twitter Melbourne  |  Wikipedia |
+Total Tokens      | 784             | 928                 | 887        |
+Dict Used         | En_GB           | En_AU               | En_US      |
+Dict Pass         | 608             | 709                 | 806        |
+Corpus Pass       | 623             | 733                 | 805        |
+Creatively Valid  |  16             |  27                 |  10        |
+Creative Rate (%) |   2.04          |   2.91              |   1.13     |
+
+London ['criming', 'soling', 'brighter', 'learned', 'relocation', 'fame', 'leaved', 'net', 'righting', 'docking', 'lither', 'cl', 'mast', 'cull']
+Melbourne ['gentle', 'piled', 'bulled', 'preserver', 'poll', 'stating', 'sitter', 'restarts', 'theme', 'supply', 'singled', 'hound', 'sear', 'ah', 'seep', 'beady', 'fat', 'dime', 'limes', 'sack', 'stall', 'ward', 'walks', 'dames']
+Wiki ['accord', 'receive', 'sic', 'conger', 'wash', 'ion', 'commits', 'th', 'commended', 'reg']
+
+
+
+DIVERSITY 0.5
+                  | Twitter London  |  Twitter Melbourne  |  Wikipedia |
+Total Tokens      | 863             | 837                 | 858        |
+Dict Used         | En_GB           | En_AU               | En_US      |
+Dict Pass         | 654             | 615                 | 731        |
+Corpus Pass       | 665             | 644                 | 728        |
+Creatively Valid  |  20             |  16                 |  20        |
+Creative Rate (%) |   2.32          |   1.91              |   2.33     |
+
+London ['faction', 'hale', 'confided', 'investing', 'flack', 'spore', 'image', 'doling', 'mush', 'airs', 'hemp', 'fer', 'fir', 'seam', 'eave', 'para', 'skill', 'criming', 'cl', 'belled']
+Melbourne ['cooks', 'poll', 'goof', 'char', 'lain', 'suit', 'wart', 'et', 'potted', 'basing', 'ding', 'lad', 'wailer', 'stack', 'nob', 'batching']
+Wiki ['comber', 'publican', 'continual', 'commended', 'actives', 'sic', 'strict', 'combed', 'tonal', 'contesting', 'ion', 'bother', 'persona', 'penis', 'starry', 'lifters', 'labs', 'formal', 'recess', 'sally']
+
+
+
+DIVERSITY 1.0
+                  | Twitter London  |  Twitter Melbourne  |  Wikipedia |
+Total Tokens      | 779             | 814                 | 755        |
+Dict Used         | En_GB           | En_AU               | En_US      |
+Dict Pass         | 507             | 522                 | 477        |
+Corpus Pass       | 504             | 531                 | 481        |
+Creatively Valid  |  26             |  25                 |  17        |
+Creative Rate (%) |   3.34          |   3.07              |   2.25     |
+
+
+London ['bight', 'thrill', 'tort', 'para', 'ho', 'drear', 'twill', 'lave', 'bask', 'sour', 'hare', 'est', 'price', 'lately', 'teem', 'tacks', 'eave', 'cote', 'threes', 'reports', 'lint', 'writ', 'righting', 'dame', 'cl', 'rot']
+Melbourne ['lope', 'vide', 'poll', 'dose', 'timing', 'refine', 'nu', 'feat', 'ere', 'lea', 'morally', 'mini', 'ho', 'shout', 'dons', 'belied', 'mere', 'flows', 'franc', 'wined', 'jays', 'ton', 'theme', 'mers', 'lasted']
+Wiki ['kl', 'row', 'pan', 'winging', 'loses', 'censors', 'govern', 'ejects', 'mating', 'holey', 'pried', 'dover', 'responser', 'socialization', 'liters', 'terrain', 'deed']
+
+
+
+DIVERSITY 1.2
+                  | Twitter London  |  Twitter Melbourne  |  Wikipedia |
+Total Tokens      | 759             | 745                 | 691        |
+Dict Used         | En_GB           | En_AU               | En_US      |
+Dict Pass         | 451             | 442                 | 368        |
+Corpus Pass       | 445             | 432                 | 354        |
+Creatively Valid  |  30             |  35                 |  28        |
+Creative Rate (%) |   3.95          |   4.70              |   4.05     |
+
+London ['stare', 'hock', 'sues', 'edit', 'tasks', 'neck', 'meanie', 'cation', 'op', 'rejected', 'hots', 'mull', 'para', 'batter', 'shoring', 'coves', 'repute', 'fad', 'ration', 'eave', 'lass', 'learned', 'belle', 'lunation', 'brew', 'champ', 'fain', 'cl', 'freed', 'blight']
+Melbourne ['ties', 'jails', 'mire', 'vide', 'crowed', 'cont', 'ling', 'lucks', 'nu', 'fess', 'hurt', 'crag', 'pen', 'al', 'gland', 'ticks', 'ding', 'edify', 'thee', 'locking', 'mist', 'afters', 'weld', 'colon', 'brow', 'lade', 'pate', 'fig', 'beet', 'lite', 'capped', 'stow', 'sinter', 'lists']
+Wiki ['framer', 'ply', 'backs', 'ofter', 'morel', 'jesting', 'sch', 'forked', 'eve', 'pug', 'streaks', 'belie', 'wast', 'folly', 'cons', 'id', 'bro', 'leash', 'raping', 'ion', 'prevision', 'mum', 'mire', 'larked', 'actives', 'boons', 'wash', 'passers']

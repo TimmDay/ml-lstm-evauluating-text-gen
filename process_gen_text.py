@@ -12,19 +12,11 @@ print(enchant.list_languages())
 # 'corpus_wiki'
 # 'outputs/wikipedia/2019_04_04_wiki_with_processing.txt'
 
-file_corpus = 'corpus_wiki'
-file_gen_text = 'outputs/wikipedia/2019_04_04_wiki_with_processing.txt'
-d = enchant.Dict("en_US") # change to en_US, en_GB, en_AU as required
-
-### analyse corpus ###
-# dictionary of all words/tokens in corpus
-  # filter out punctuation groups of 3 or less chars
-  # filter out numbers
-  # filter out words with non-ascii chars
-## zipf plot of corpus
-# check all corpus words vs dictionary
-# get corpus dictionary match rate
-
+file_corpus = 'corpus_tweets/melbourne'
+file_gen_text = 'outputs/twitter_melbourne/2019-06-01_tweet_melb_with_processing.txt'
+d = enchant.Dict("en_AU") # change to en_US, en_GB, en_AU as required
+diversity = 1.2 # diversity of generated text to filter for (0.2, 0.5, 1.0 or 1.2)
+epoch = 50      # epoch of generated text to start gethering from
 
 #  Construct the dictionary of all vocab in the corpus
 def evaluateCorpus(dirName):
@@ -233,9 +225,8 @@ def evaluateFilteredGeneratedText(arr, vocab_dict):
 
 
 ### MAIN ###
-
 vocab_dict, corpus, vocab = evaluateCorpus(file_corpus)
-filtered_gen_output = filterForEpochDiversity(file_gen_text,50, 1.0)
+filtered_gen_output = filterForEpochDiversity(file_gen_text, epoch, diversity)
 creatively_valid = evaluateFilteredGeneratedText(filtered_gen_output, vocab_dict)
 print(creatively_valid)
 
